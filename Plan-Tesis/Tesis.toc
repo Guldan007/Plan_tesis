@@ -1,32 +1,32 @@
 \babel@toc {english}{}\relax 
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{Contenido}{1}{}%
-\contentsline {chapter}{\numberline {1}Introducción}{2}{}%
-\contentsline {chapter}{\numberline {2}Planteamiento de la Investigación}{3}{}%
-\contentsline {section}{\numberline {2.1}Problemática de la investigación}{3}{}%
-\contentsline {section}{\numberline {2.2}Pregunta de investigación}{3}{}%
-\contentsline {section}{\numberline {2.3}Justificación}{3}{}%
-\contentsline {section}{\numberline {2.4}Alcance}{3}{}%
-\contentsline {section}{\numberline {2.5}Objetivos}{3}{}%
-\contentsline {subsection}{\numberline {2.5.1}General}{3}{}%
-\contentsline {subsection}{\numberline {2.5.2}Específicos}{3}{}%
-\contentsline {section}{\numberline {2.6}Hipótesis}{4}{}%
-\contentsline {section}{\numberline {2.7}Variables e indicadores}{4}{}%
-\contentsline {section}{\numberline {2.8}Tipo y Nivel de Investigación}{4}{}%
-\contentsline {chapter}{\numberline {3}Antecedentes}{5}{}%
-\contentsline {section}{\numberline {3.1}Estado del Arte}{5}{}%
-\contentsline {chapter}{\numberline {4}Marco Teórico}{6}{}%
-\contentsline {section}{\numberline {4.1}Título de la sección}{6}{}%
-\contentsline {subsection}{\numberline {4.1.1}Título de la subsección}{6}{}%
-\contentsline {chapter}{\numberline {5}Planteamiento Metodológico}{7}{}%
-\contentsline {section}{\numberline {5.1}Lugar en donde se desarrollará la investigación}{7}{}%
-\contentsline {section}{\numberline {5.2}Ambientes por utilizar}{7}{}%
-\contentsline {section}{\numberline {5.3}Materiales}{7}{}%
-\contentsline {section}{\numberline {5.4}Métodos}{7}{}%
-\contentsline {subsection}{\numberline {5.4.1}Primer método}{7}{}%
-\contentsline {subsection}{\numberline {5.4.2}Segundo método}{7}{}%
-\contentsline {section}{\numberline {5.5}Flujograma de actividades }{7}{}%
-\contentsline {chapter}{\numberline {6}Cronograma y Presupuesto de la Investigación}{8}{}%
-\contentsline {section}{\numberline {6.1}Cronograma}{9}{}%
-\contentsline {section}{\numberline {6.2}Presupuesto}{10}{}%
-\contentsline {chapter}{Referencias Bibliográficas}{11}{}%
+\contentsline {chapter}{\numberline {1}Introducción}{3}{}%
+\contentsline {chapter}{\numberline {2}Planteamiento de la Investigación}{4}{}%
+\contentsline {section}{\numberline {2.1}Problemática de la investigación}{4}{}%
+\contentsline {section}{\numberline {2.2}Pregunta de investigación}{4}{}%
+\contentsline {section}{\numberline {2.3}Justificación}{4}{}%
+\contentsline {section}{\numberline {2.4}Alcance}{4}{}%
+\contentsline {section}{\numberline {2.5}Objetivos}{4}{}%
+\contentsline {subsection}{\numberline {2.5.1}General}{4}{}%
+\contentsline {subsection}{\numberline {2.5.2}Específicos}{4}{}%
+\contentsline {section}{\numberline {2.6}Hipótesis}{5}{}%
+\contentsline {section}{\numberline {2.7}Variables e indicadores}{5}{}%
+\contentsline {section}{\numberline {2.8}Tipo y Nivel de Investigación}{5}{}%
+\contentsline {chapter}{\numberline {3}Antecedentes}{6}{}%
+\contentsline {section}{\numberline {3.1}Estado del Arte}{6}{}%
+\contentsline {chapter}{\numberline {4}Marco Teórico}{7}{}%
+\contentsline {section}{\numberline {4.1}Título de la sección}{7}{}%
+\contentsline {subsection}{\numberline {4.1.1}Título de la subsección}{7}{}%
+\contentsline {chapter}{\numberline {5}Planteamiento Metodológico}{8}{}%
+\contentsline {section}{\numberline {5.1}Lugar en donde se desarrollará la investigación}{8}{}%
+\contentsline {section}{\numberline {5.2}Ambientes por utilizar}{8}{}%
+\contentsline {section}{\numberline {5.3}Materiales}{8}{}%
+\contentsline {section}{\numberline {5.4}Métodos}{8}{}%
+\contentsline {subsection}{\numberline {5.4.1}Primer método}{8}{}%
+\contentsline {subsection}{\numberline {5.4.2}Segundo método}{8}{}%
+\contentsline {section}{\numberline {5.5}Flujograma de actividades }{8}{}%
+\contentsline {chapter}{\numberline {6}Cronograma y Presupuesto de la Investigación}{9}{}%
+\contentsline {section}{\numberline {6.1}Cronograma}{10}{}%
+\contentsline {section}{\numberline {6.2}Presupuesto}{11}{}%
+\contentsline {chapter}{Referencias Bibliográficas}{12}{}%
