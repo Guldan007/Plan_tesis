@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.9.16)  29 NOV 2024 14:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.9.16)  3 DEC 2024 19:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/media/ciim/0672c8bf-55e4-4699-881b-d129fc3100b0/Plan_tesis/Plan-Tesis/Tesis.tex
-(/media/ciim/0672c8bf-55e4-4699-881b-d129fc3100b0/Plan_tesis/Plan-Tesis/Tesis.tex
+**/resp-02/David/Plan_tesis/Plan-Tesis/Tesis.tex
+(/resp-02/David/Plan_tesis/Plan-Tesis/Tesis.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
@@ -1453,25 +1453,30 @@ Package pdftex.def Info: figuras/ib.png  used on input line 82.
 
  (./planteamiento.tex
 Capítulo 2.
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 27.
-(/usr/share/texmf/tex/latex/lm/ts1lmr.fd
+File: figuras/ib.png Graphic file (type png)
+<use figuras/ib.png>
+Package pdftex.def Info: figuras/ib.png  used on input line 15.
+(pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
+[4
+
+
+
+
+]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 36.
+ (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
-Package pdftex.def Info: figuras/ib.png  used on input line 50.
+Package pdftex.def Info: figuras/ib.png  used on input line 37.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
- [4
-
-
-
-
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}])
+ [5])
 File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
 Package pdftex.def Info: figuras/ib.png  used on input line 83.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
- [5]
+ [6{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}]
 \openout2 = `antecedentes.aux'.
 
  (./antecedentes.tex
@@ -1481,7 +1486,7 @@ File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
 Package pdftex.def Info: figuras/ib.png  used on input line 84.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
- [6
+ [7
 
 
 
@@ -1496,7 +1501,7 @@ File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
 Package pdftex.def Info: figuras/ib.png  used on input line 85.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
- [7
+ [8
 
 
 
@@ -1511,7 +1516,7 @@ File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
 Package pdftex.def Info: figuras/ib.png  used on input line 86.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
- [8
+ [9
 
 
 
@@ -1525,7 +1530,7 @@ File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
 Package pdftex.def Info: figuras/ib.png  used on input line 3.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
-[9
+[10
 
 
 
@@ -1539,17 +1544,17 @@ File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
 Package pdftex.def Info: figuras/ib.png  used on input line 27.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
-[10])
+[11])
 File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
 Package pdftex.def Info: figuras/ib.png  used on input line 87.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
- [11] (./Tesis.bbl)
+ [12] (./Tesis.bbl)
 File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
 Package pdftex.def Info: figuras/ib.png  used on input line 96.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
- [12
+ [13
 
 
 
@@ -1561,17 +1566,17 @@ L3 programming layer <2024-01-22>
  ) 
 Here is how much of TeX's memory you used:
  25668 strings out of 474222
- 531584 string characters out of 5748733
+ 531482 string characters out of 5748733
  1947975 words of memory out of 5000000
  47227 multiletter control sequences out of 15000+600000
  602094 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,12n,97p,1393b,420s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,12n,97p,1359b,420s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb>
-Output written on Tesis.pdf (13 pages, 2615854 bytes).
+Output written on Tesis.pdf (14 pages, 2619806 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 59 compressed objects within 1 object stream
+ 107 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  119 words of extra memory for PDF output out of 10000 (max. 10000000)
 
