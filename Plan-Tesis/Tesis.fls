@@ -564,6 +564,9 @@ INPUT ./planteamiento-metodologico.tex
 INPUT ./planteamiento-metodologico.tex
 INPUT planteamiento-metodologico.tex
 INPUT ./figuras/ib.png
+INPUT ./figuras/ib.png
+INPUT ./figuras/ib.png
+INPUT ./figuras/ib.png
 INPUT ./cronograma.tex
 INPUT ./cronograma.tex
 OUTPUT cronograma.aux
