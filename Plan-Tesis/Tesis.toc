@@ -5,7 +5,7 @@
 \contentsline {chapter}{\numberline {2}Planteamiento de la Investigación}{4}{}%
 \contentsline {section}{\numberline {2.1}Problemática de la investigación}{5}{}%
 \contentsline {section}{\numberline {2.2}Pregunta de investigación}{5}{}%
-\contentsline {section}{\numberline {2.3}Justificación}{6}{}%
+\contentsline {section}{\numberline {2.3}Justificación}{5}{}%
 \contentsline {section}{\numberline {2.4}Alcance}{6}{}%
 \contentsline {section}{\numberline {2.5}Objetivos}{6}{}%
 \contentsline {subsection}{\numberline {2.5.1}General}{6}{}%
@@ -16,17 +16,23 @@
 \contentsline {chapter}{\numberline {3}Antecedentes}{7}{}%
 \contentsline {section}{\numberline {3.1}Estado del Arte}{7}{}%
 \contentsline {chapter}{\numberline {4}Marco Teórico}{8}{}%
-\contentsline {section}{\numberline {4.1}Título de la sección}{8}{}%
-\contentsline {subsection}{\numberline {4.1.1}Título de la subsección}{8}{}%
-\contentsline {chapter}{\numberline {5}Planteamiento Metodológico}{9}{}%
-\contentsline {section}{\numberline {5.1}Lugar en donde se desarrollará la investigación}{9}{}%
-\contentsline {section}{\numberline {5.2}Ambientes por utilizar}{9}{}%
-\contentsline {section}{\numberline {5.3}Materiales}{9}{}%
-\contentsline {section}{\numberline {5.4}Métodos}{9}{}%
-\contentsline {subsection}{\numberline {5.4.1}Primer método}{9}{}%
-\contentsline {subsection}{\numberline {5.4.2}Segundo método}{9}{}%
-\contentsline {section}{\numberline {5.5}Flujograma de actividades }{9}{}%
-\contentsline {chapter}{\numberline {6}Cronograma y Presupuesto de la Investigación}{10}{}%
-\contentsline {section}{\numberline {6.1}Cronograma}{11}{}%
-\contentsline {section}{\numberline {6.2}Presupuesto}{12}{}%
-\contentsline {chapter}{Referencias Bibliográficas}{13}{}%
+\contentsline {section}{\numberline {4.1}Diabetes y desafíos actuales}{8}{}%
+\contentsline {section}{\numberline {4.2}Fundamentos Moleculares y Fisiopatológicos de la Dipeptidil-Peptidasa IV}{9}{}%
+\contentsline {section}{\numberline {4.3}Estrategias Farmacológicas Contemporáneas}{10}{}%
+\contentsline {section}{\numberline {4.4}El Aloe Vera como potencial recurso natural}{10}{}%
+\contentsline {section}{\numberline {4.5}Tecnologías computacionales para simulaciones moleculares}{11}{}%
+\contentsline {subsection}{\numberline {4.5.1}Modelado Molecular Avanzado}{11}{}%
+\contentsline {section}{\numberline {4.6}Tendencias de Investigación Emergentes}{12}{}%
+\contentsline {subsection}{\numberline {4.6.1}Desarrollo de objetivos}{12}{}%
+\contentsline {chapter}{\numberline {5}Planteamiento Metodológico}{14}{}%
+\contentsline {section}{\numberline {5.1}Lugar en donde se desarrollará la investigación}{14}{}%
+\contentsline {section}{\numberline {5.2}Ambientes por utilizar}{14}{}%
+\contentsline {section}{\numberline {5.3}Materiales}{14}{}%
+\contentsline {section}{\numberline {5.4}Métodos}{14}{}%
+\contentsline {subsection}{\numberline {5.4.1}Primer método}{14}{}%
+\contentsline {subsection}{\numberline {5.4.2}Segundo método}{14}{}%
+\contentsline {section}{\numberline {5.5}Flujograma de actividades }{14}{}%
+\contentsline {chapter}{\numberline {6}Cronograma y Presupuesto de la Investigación}{15}{}%
+\contentsline {section}{\numberline {6.1}Cronograma}{16}{}%
+\contentsline {section}{\numberline {6.2}Presupuesto}{17}{}%
+\contentsline {chapter}{Referencias Bibliográficas}{18}{}%

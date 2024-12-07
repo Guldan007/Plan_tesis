@@ -552,6 +552,11 @@ INPUT ./marco-teorico.tex
 INPUT ./marco-teorico.tex
 INPUT marco-teorico.tex
 INPUT ./figuras/ib.png
+INPUT ./figuras/ib.png
+INPUT ./figuras/ib.png
+INPUT ./figuras/ib.png
+INPUT ./figuras/ib.png
+INPUT ./figuras/ib.png
 INPUT ./planteamiento-metodologico.tex
 INPUT ./planteamiento-metodologico.tex
 OUTPUT planteamiento-metodologico.aux
