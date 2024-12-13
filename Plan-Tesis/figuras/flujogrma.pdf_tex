@@ -1,0 +1,118 @@
+%% Creator: Inkscape 1.4 (1:1.4+202410161351+e7c3feb100), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'flujogrma.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{513.01464844bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,2.25604623)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{flujogrma.pdf}}%
+    \put(0.34276506,2.16593375){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Extracción de la proteína de la PDB\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{flujogrma.pdf}}%
+    \put(0.34178424,2.08703439){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Verificación de la enzima adecuada\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{flujogrma.pdf}}%
+    \put(0.37370585,1.93737332){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Construcción de la molécula\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{flujogrma.pdf}}%
+    \put(0.50386911,1.98902476){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}sí\end{tabular}}}}%
+    \put(0.34905217,2.01592794){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}¿Necesita construcción de molécula?\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{flujogrma.pdf}}%
+    \put(0.36442877,1.79414817){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Buscar proteína blanco (GLP1)\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{flujogrma.pdf}}%
+    \put(0.27445475,1.71524883){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Valoración bibliográfica de estadios de la molécula\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{flujogrma.pdf}}%
+    \put(0.35264183,1.56558772){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Uso de AlphaFold para modelado\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{flujogrma.pdf}}%
+    \put(0.50386911,1.61723916){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}sí\end{tabular}}}}%
+    \put(0.40887457,1.64414236){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}¿Modelado requerido?\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{flujogrma.pdf}}%
+    \put(0.32587272,1.42236255){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Limpiar proteínas y completar residuos\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{flujogrma.pdf}}%
+    \put(0.27587239,1.34346321){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Generar dinámicas moleculares usando GROMACS\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{flujogrma.pdf}}%
+    \put(0.29640543,1.2645637){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Estabilizar proteínas y encontrar estado basal\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{flujogrma.pdf}}%
+    \put(0.26426116,1.18566436){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Realizar interacción proteica (dockeo citoplasmático)\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{flujogrma.pdf}}%
+    \put(0.27137954,1.10676484){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Mantener GLP1 estable mientras DPP4 se aproxima\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{flujogrma.pdf}}%
+    \put(0.39993081,0.96353985){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Repetir Autodock Vina\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{flujogrma.pdf}}%
+    \put(0.36001795,0.89243343){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}¿Mejorar probabilidad estadística?\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{flujogrma.pdf}}%
+    \put(0.32484057,0.82031469){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Afirma valor inhibitorio en estado basal\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{flujogrma.pdf}}%
+    \put(0.34080342,0.74141535){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Análisis bibliográfico sobre ligandos\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{flujogrma.pdf}}%
+    \put(0.28165452,0.66251592){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Buscar ligandos en Aloe Vera y otros metabolitos\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{flujogrma.pdf}}%
+    \put(0.38106412,0.58361649){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Filtrar ligandos por ADMET\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{flujogrma.pdf}}%
+    \put(0.28487112,0.50471706){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Generar base de datos de fármacos comerciales\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{flujogrma.pdf}}%
+    \put(0.36443475,0.43361064){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}¿Ligandos sintéticos o naturales?\end{tabular}}}}%
+    \put(0.26982154,0.44297052){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}sintéticos\end{tabular}}}}%
+    \put(0.64915107,0.44297052){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}naturales\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{flujogrma.pdf}}%
+    \put(0.05571464,0.37611145){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Análisis de resultados por dinámica molecular\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=23]{flujogrma.pdf}}%
+    \put(0.51896604,0.37611145){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Dockeo final para evaluar energías de interacción\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=24]{flujogrma.pdf}}%
+    \put(0.26535762,0.25335363){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Análisis estadístico para evidenciar mejores ligandos\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=25]{flujogrma.pdf}}%
+    \put(0.33900918,0.1822472){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}¿Metabolitos superan inhibición actual?\end{tabular}}}}%
+    \put(0.30861956,0.19160708){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}sí\end{tabular}}}}%
+    \put(0.67457667,0.19160708){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}no\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=26]{flujogrma.pdf}}%
+    \put(0.01498495,0.12474801){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Conclusión positiva sobre metabolitos de Aloe Vera\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=27]{flujogrma.pdf}}%
+    \put(0.52528135,0.12474801){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Conclusión negativa sobre metabolitos de Aloe Vera\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=28]{flujogrma.pdf}}%
+  \end{picture}%
+\endgroup%
