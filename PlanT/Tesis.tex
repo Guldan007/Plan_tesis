@@ -1,0 +1,105 @@
+\documentclass[12pt,oneside,titlepage,openright,a4paper]{book}
+\usepackage[utf8]{inputenc}
+\usepackage[style=numeric,sorting=none]{biblatex}
+\bibliography{Tesis}
+\usepackage[hidelinks]{hyperref}
+\usepackage[version=3]{mhchem} % Formula subscripts using \ce{}
+\usepackage{pdflscape}
+%\usepackage{ucs}
+%\usepackage{uarial}
+\usepackage[spanish,english]{babel}
+\usepackage{csquotes}
+\usepackage{latexsym}
+\usepackage{amssymb,amsmath,amsthm,amsfonts}
+\usepackage{fancyhdr}
+\usepackage{fancybox}    
+\usepackage{t1enc}
+\usepackage{array}
+\usepackage[pdftex]{graphicx}
+\usepackage[below]{placeins}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{rotating,colortbl,longtable,tabulary,booktabs}
+\usepackage{tocbibind}
+\usepackage{wrapfig,subfigure}
+\usepackage{tikz,pgfkeys,tkz-base}
+\usepackage{comment} % enables the use of multi-line comments (\ifx \fi)
+\usepackage{fullpage} % changes the margin
+\usepackage{multirow, array}
+\usepackage[left=3cm,right=2.5cm,top=2cm,bottom=2cm]{geometry}
+\usepackage{appendix}
+\usepackage{lmodern}
+\usepackage{booktabs}
+\usepackage{lscape}
+\usepackage{pdflscape}
+\usepackage{rotating}
+\usepackage{url}
+\usepackage{color}
+\definecolor{Mygray}{gray}{0.85}
+\usepackage{xcolor}
+% \newcounter{subsubsubsection} [subsubsection]
+\setcounter{secnumdepth}{3}
+\usetikzlibrary{arrows,decorations.pathmorphing,backgrounds,positioning,fit,trees,calc,through,plotmarks}
+%\bibpunct{}{,}{} 
+\setlength{\parindent}{0.5cm}
+\setlength{\parskip}{0.2cm}
+\linespread{1.5}
+\usepackage{eso-pic}
+\newcommand\BackgroundPic{
+\put(0,0){
+\parbox[b][\paperheight]{\paperwidth}{%
+\vfill
+\centering
+\includegraphics[width=0.75\paperwidth,height=\paperheight,keepaspectratio]{figuras/ib.png}%
+\vfill
+}}}
+%--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\begin{document}
+\AddToShipoutPicture{\BackgroundPic}
+\renewcommand{\tablename}{Tabla}
+\renewcommand{\listtablename}{Índice de Tablas}
+\renewcommand{\contentsname}{Contenido}
+\renewcommand{\listfigurename}{Índice de Figuras}
+\renewcommand{\chaptername}{Capítulo}
+\begin{titlepage}
+\begin{center}
+\textbf{\begin{LARGE}Universidad Católica de Santa María \end{LARGE}}\\
+\begin{Large}Facultad de Ciencias Farmacéuticas, Bioquímicas y Biotecnológicas\end{Large}\\
+\begin{large}Escuela profesional de Ingeniería Biotecnológica\end{large}\\\vspace{2.0cm}
+\includegraphics[scale=0.2]{figuras/logo.png}\\\vspace{2.0cm}
+\textbf{\begin{LARGE} Interacción de metabolitos secundarios del Aloe Vera como inhibidores potenciales de la dipeptidil peptidasa-4 (DPP4) postulándolos como alternativas a tratamiento de Diabetes Mellitus tipo 2 (DMT2)
+\end{LARGE}}\\\vspace{2.0cm}
+\end{center}
+\begin{flushright}
+\begin{minipage}{7cm}
+Tesis presentada por el Bachiller:\\ \textbf{Quispe Ppacco, David Jonatán}\\ 
+Para Optar el Titulo Profesional de:\\  \textbf {Ingeniero Biotecnólogo} \\
+Asesor:\\ Gómez Valdez, Badhin
+\end{minipage}
+\end{flushright}
+\vspace{0.5cm}
+\begin{center}
+\begin{Large}\textbf{Arequipa -- Perú\\2024}\end{Large}
+\end{center}
+\end{titlepage}
+%--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\pagenumbering{arabic}\tableofcontents 
+%--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\include{introduccion}
+\include{planteamiento}
+\include{antecedentes}
+\include{marco-teorico}
+\include{planteamiento-metodologico}
+\include{cronograma} 
+%\include{referencias}
+%--------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------
+%\bibliographystyle{vancouver}
+%\renewcommand{\bibname}{Referencias Bibliográficas}
+%\bibliography{Tesis} 
+%\appendix
+%\include{apendice}
+\printbibliography
+
+%--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\end{document}
+%-------------------------------------------------------------------------------------------------------------------------------------------------------------------- 

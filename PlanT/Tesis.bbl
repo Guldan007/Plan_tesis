@@ -1,0 +1,131 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Publications2024}{book}{}
+      \name{author}{1}{}{%
+        {{hash=dfa31d4f499f74aeb60e169fbeeda842}{%
+           family={Publications},
+           familyi={P\bibinitperiod},
+           given={Exon},
+           giveni={E\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=014fc4f155c981a939c4e6c94319908a}{%
+           family={(AU)},
+           familyi={(\bibinitperiod},
+           given={Brisbane},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Exon Publication}%
+      }
+      \strng{namehash}{dfa31d4f499f74aeb60e169fbeeda842}
+      \strng{fullhash}{dfa31d4f499f74aeb60e169fbeeda842}
+      \strng{bibnamehash}{dfa31d4f499f74aeb60e169fbeeda842}
+      \strng{authorbibnamehash}{dfa31d4f499f74aeb60e169fbeeda842}
+      \strng{authornamehash}{dfa31d4f499f74aeb60e169fbeeda842}
+      \strng{authorfullhash}{dfa31d4f499f74aeb60e169fbeeda842}
+      \strng{editorbibnamehash}{014fc4f155c981a939c4e6c94319908a}
+      \strng{editornamehash}{014fc4f155c981a939c4e6c94319908a}
+      \strng{editorfullhash}{014fc4f155c981a939c4e6c94319908a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{Diabetes tipo 2: Educación Pública}
+      \field{year}{2024}
+      \verb{doi}
+      \verb https://doi.org/10.36255/type-2-diabetes-public-education
+      \endverb
+    \endentry
+    \entry{Budiastutik2022}{article}{}
+      \name{author}{7}{}{%
+        {{hash=8601553f3cd9d5e0f0643e639dabdc52}{%
+           family={Budiastutik},
+           familyi={B\bibinitperiod},
+           given={Indah},
+           giveni={I\bibinitperiod}}}%
+        {{hash=77e3b376b7f977667834ba073bf4aab2}{%
+           family={Subagio},
+           familyi={S\bibinitperiod},
+           given={Hertanto\bibnamedelima Wahyu},
+           giveni={H\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=21ce798162136177c57826134c1697ba}{%
+           family={Kartasurya},
+           familyi={K\bibinitperiod},
+           given={Martha\bibnamedelima Irene},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=3207de6748ba13660e1343ef6379ae49}{%
+           family={Widjanarko},
+           familyi={W\bibinitperiod},
+           given={Bagoes},
+           giveni={B\bibinitperiod}}}%
+        {{hash=f1a68bea2a2501e332f651f2c7bd999f}{%
+           family={Kartini},
+           familyi={K\bibinitperiod},
+           given={Apoina},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c05a3171b95948e37a2dbe8cc55e931b}{%
+           family={Soegiyanto},
+           familyi={S\bibinitperiod}}}%
+        {{hash=4b711552be231646a77f78089807ac8b}{%
+           family={Suhartono},
+           familyi={S\bibinitperiod},
+           given={Suhartono},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {ANGAMOS 0610, ANTOFAGASTA, 00000, CHILE}%
+      }
+      \list{publisher}{1}{%
+        {JOURNAL PHARMACY \& PHARMACOGNOSY RESEARCH-JPPRES}%
+      }
+      \strng{namehash}{f64dcc69acc93625e725ff2347c87adc}
+      \strng{fullhash}{84dea1078e47825884e69dea1167baba}
+      \strng{bibnamehash}{f64dcc69acc93625e725ff2347c87adc}
+      \strng{authorbibnamehash}{f64dcc69acc93625e725ff2347c87adc}
+      \strng{authornamehash}{f64dcc69acc93625e725ff2347c87adc}
+      \strng{authorfullhash}{84dea1078e47825884e69dea1167baba}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Context: : Aloe vera is a traditional medicinal plant that shows a wide range of biological activities. Previous studies demonstrated the antihyperglycemic effect of Aloe vera but with inconsistent results. Aims: To quantitatively summarize the effect of Aloe vera on fasting blood glucose in pre-diabetes and type 2 diabetes mellitus by a meta-analysis. Methods: PubMed, Scopus, Springer Link, Science Direct, Proquest, and Google Scholar were used to identify clinical trials evaluating the effect of Aloe vera on fasting blood glucose published between 2011 and 2021. The inclusion criteria were: (1) original research with a clinical trial design evaluating the effect of Aloe vera on fasting blood glucose in pre-diabetes and/or type 2 diabetes mellitus; (2) providing the data of the mean fasting blood glucose and standard deviation in both control and intervention group, and; (3) Aloe vera was used as the only intervention. The pooled effect of Aloe vera on fasting blood glucose was evaluated using the random effect model, and publication bias was assessed by Funnel plots and Fail Safe-N. Results: A total of 25 trials were included from 13 publications involving 642 patients. The results showed that Aloe vera significantly reduced fasting blood glucose (-0.35 {[}95\% CI, -1454, -0.616] mg/dL; p<0.001) compared to control. Aloe vera might have a more remarkable effect in males, BMI not more than 30 mg/kg(2), type 2 diabetes mellitus, administered for >= 8 weeks, dose at 200 mg, and capsule administration. However, a high heterogeneity across the studies was found. Conclusions: Aloe vera may reduce fasting blood glucose in pre-diabetes and type 2 diabetes mellitus. However, further study with a well-design and standardized preparation is needed to emphasize the effect of Aloe vera on blood glucose control.}
+      \field{issn}{0719-4250}
+      \field{journaltitle}{JOURNAL OF PHARMACY \& PHARMACOGNOSY RESEARCH}
+      \field{month}{7}
+      \field{number}{4}
+      \field{title}{The effect of <i>Aloe vera</i> on fasting blood glucose levels in pre-diabetes and type 2 diabetes mellitus: A systematic review and meta-analysis}
+      \field{type}{Review}
+      \field{volume}{10}
+      \field{year}{2022}
+      \field{pages}{737\bibrangedash 747}
+      \range{pages}{11}
+      \keyw{Aloe vera; hyperglycemia; meta-analysis; systematic reviews}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
