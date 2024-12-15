@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber Tesis"] 1734232048.71221 "Tesis.bcf" "Tesis.bbl" "Tesis" 1734232055.65394 0
-  "Tesis.bcf" 1734232055.41003 107231 f9a7c4808a8b7a415ed0b4a0a207a07e "pdflatex"
+["biber Tesis"] 1734232048.71221 "Tesis.bcf" "Tesis.bbl" "Tesis" 1734232523.4675 0
+  "Tesis.bcf" 1734232523.0886 107231 f9a7c4808a8b7a415ed0b4a0a207a07e "pdflatex"
   "Tesis.bib" 1734231695.22727 22348 a822be9d6b1522635135094e72053214 ""
   (generated)
   "Tesis.bbl"
   "Tesis.blg"
   (rewritten before read)
-["pdflatex"] 1734232050.06699 "/home/ubuntu/Documentos/Plan_tesis/PlanT/Tesis.tex" "Tesis.pdf" "Tesis" 1734232055.65447 0
+["pdflatex"] 1734232516.12377 "/home/ubuntu/Documentos/Plan_tesis/PlanT/Tesis.tex" "Tesis.pdf" "Tesis" 1734232523.46794 0
   "/etc/texmf/web2c/texmf.cnf" 1732986956.96503 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/ubuntu/Documentos/Plan_tesis/PlanT/Tesis.tex" 1734228722.39035 4400 00a8a96c2dacfdd522f1a0d51677f4a1 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -304,26 +304,26 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1732987011.52954 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1732987226 8214887 84f4774af981767f0aa57a45a67ba5f0 ""
-  "Tesis.aux" 1734232055.39703 1380 681f75e50df4d54e2aa0fda817a67509 "pdflatex"
+  "Tesis.aux" 1734232523.0736 1380 681f75e50df4d54e2aa0fda817a67509 "pdflatex"
   "Tesis.bbl" 1734232050.03105 9232 f395afe4e33ca3e7054c85e07d17d2fd "biber Tesis"
-  "Tesis.out" 1734232055.40803 7152 688dad4e73e27f063d6baf5c0efe752e "pdflatex"
-  "Tesis.run.xml" 1734232055.41203 2338 be478a223a06a4c94dbb3f17587ac691 "pdflatex"
+  "Tesis.out" 1734232523.0846 7152 688dad4e73e27f063d6baf5c0efe752e "pdflatex"
+  "Tesis.run.xml" 1734232523.0916 2338 be478a223a06a4c94dbb3f17587ac691 "pdflatex"
   "Tesis.tex" 1734228722.39035 4400 00a8a96c2dacfdd522f1a0d51677f4a1 ""
-  "Tesis.toc" 1734232055.41203 3329 1a73ea56ada67d00ea66f416982be6e9 "pdflatex"
-  "antecedentes.aux" 1734232055.0181 4775 0b8bc5d05e85d46f5cc750fc67e2488e "pdflatex"
-  "antecedentes.tex" 1734232042.68046 5742 87686958ac89cdd91c800bdda41d3d56 ""
-  "cronograma.aux" 1734232055.35504 4916 f50b7941ed73d6f00e3de6c98f74351e "pdflatex"
+  "Tesis.toc" 1734232523.0916 3329 1a73ea56ada67d00ea66f416982be6e9 "pdflatex"
+  "antecedentes.aux" 1734232522.58062 4775 0b8bc5d05e85d46f5cc750fc67e2488e "pdflatex"
+  "antecedentes.tex" 1734232515.17493 5745 97fac9929d67ff82808b877c6d15e7a2 ""
+  "cronograma.aux" 1734232523.0156 4916 f50b7941ed73d6f00e3de6c98f74351e "pdflatex"
   "cronograma.tex" 1734228490.55199 2311 4f21a4c800bc8a4b0983eb5d98b9ce27 ""
   "figuras/Flujograma.png" 1734228490.55399 164008 7dd6dccd32dcad99c763baea384f60d0 ""
   "figuras/ib.png" 1734228490.56099 2128121 ddecadc3a882fb3021e0c08c1ae5b7a8 ""
   "figuras/logo.png" 1734228490.56099 28214 827d235a343a5e81a1a6a694a134f531 ""
-  "introduccion.aux" 1734232054.90813 4658 dda1932ca794ade0e40d6132671bb29f "pdflatex"
+  "introduccion.aux" 1734232522.41663 4658 dda1932ca794ade0e40d6132671bb29f "pdflatex"
   "introduccion.tex" 1734228490.56199 1339 dafa14528efd80fa06914997963580d5 ""
-  "marco-teorico.aux" 1734232055.07609 5834 a8de35541e8589b8069aadcf58aca999 "pdflatex"
+  "marco-teorico.aux" 1734232522.66362 5834 a8de35541e8589b8069aadcf58aca999 "pdflatex"
   "marco-teorico.tex" 1734228490.56199 10911 4a73c3216641bcc473b3855044ce916a ""
-  "planteamiento-metodologico.aux" 1734232055.33205 5939 187fdd99130a9d3eda0beb5c48a8f1d8 "pdflatex"
+  "planteamiento-metodologico.aux" 1734232522.9746 5939 187fdd99130a9d3eda0beb5c48a8f1d8 "pdflatex"
   "planteamiento-metodologico.tex" 1734228490.56199 5243 b3c2e49b75358a83170079f57c079f2e ""
-  "planteamiento.aux" 1734232054.95912 6149 764cb39d88e88f25f8cdd931a2ac820f "pdflatex"
+  "planteamiento.aux" 1734232522.48562 6149 764cb39d88e88f25f8cdd931a2ac820f "pdflatex"
   "planteamiento.tex" 1734228490.56199 12262 bd61608edafcdaa9a298a4ef229c643f ""
   (generated)
   "Tesis.aux"
