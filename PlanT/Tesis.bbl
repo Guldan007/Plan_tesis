@@ -57,6 +57,40 @@
       \verb https://doi.org/10.36255/type-2-diabetes-public-education
       \endverb
     \endentry
+    \entry{GuevaraTirado2024}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8467df70d60e2419a6c3262d999ef3b0}{%
+           family={Guevara\bibnamedelima Tirado},
+           familyi={G\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Editorial Biotecnologica S.R.L.}%
+      }
+      \strng{namehash}{8467df70d60e2419a6c3262d999ef3b0}
+      \strng{fullhash}{8467df70d60e2419a6c3262d999ef3b0}
+      \strng{bibnamehash}{8467df70d60e2419a6c3262d999ef3b0}
+      \strng{authorbibnamehash}{8467df70d60e2419a6c3262d999ef3b0}
+      \strng{authornamehash}{8467df70d60e2419a6c3262d999ef3b0}
+      \strng{authorfullhash}{8467df70d60e2419a6c3262d999ef3b0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0325-5247}
+      \field{journaltitle}{Revista de la Sociedad Argentina de Diabetes}
+      \field{month}{4}
+      \field{number}{1}
+      \field{title}{Determinación del riesgo de diabetes mellitus tipo 2 en la población peruana. Encuesta Demográfica y de Salud Familiar 2022}
+      \field{volume}{58}
+      \field{year}{2024}
+      \field{pages}{34\bibrangedash 40}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.47196/diab.v58i1.727
+      \endverb
+    \endentry
     \entry{Budiastutik2022}{article}{}
       \name{author}{7}{}{%
         {{hash=8601553f3cd9d5e0f0643e639dabdc52}{%
@@ -108,8 +142,8 @@
       \strng{authorbibnamehash}{f64dcc69acc93625e725ff2347c87adc}
       \strng{authornamehash}{f64dcc69acc93625e725ff2347c87adc}
       \strng{authorfullhash}{84dea1078e47825884e69dea1167baba}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Context: : Aloe vera is a traditional medicinal plant that shows a wide range of biological activities. Previous studies demonstrated the antihyperglycemic effect of Aloe vera but with inconsistent results. Aims: To quantitatively summarize the effect of Aloe vera on fasting blood glucose in pre-diabetes and type 2 diabetes mellitus by a meta-analysis. Methods: PubMed, Scopus, Springer Link, Science Direct, Proquest, and Google Scholar were used to identify clinical trials evaluating the effect of Aloe vera on fasting blood glucose published between 2011 and 2021. The inclusion criteria were: (1) original research with a clinical trial design evaluating the effect of Aloe vera on fasting blood glucose in pre-diabetes and/or type 2 diabetes mellitus; (2) providing the data of the mean fasting blood glucose and standard deviation in both control and intervention group, and; (3) Aloe vera was used as the only intervention. The pooled effect of Aloe vera on fasting blood glucose was evaluated using the random effect model, and publication bias was assessed by Funnel plots and Fail Safe-N. Results: A total of 25 trials were included from 13 publications involving 642 patients. The results showed that Aloe vera significantly reduced fasting blood glucose (-0.35 {[}95\% CI, -1454, -0.616] mg/dL; p<0.001) compared to control. Aloe vera might have a more remarkable effect in males, BMI not more than 30 mg/kg(2), type 2 diabetes mellitus, administered for >= 8 weeks, dose at 200 mg, and capsule administration. However, a high heterogeneity across the studies was found. Conclusions: Aloe vera may reduce fasting blood glucose in pre-diabetes and type 2 diabetes mellitus. However, further study with a well-design and standardized preparation is needed to emphasize the effect of Aloe vera on blood glucose control.}
@@ -124,6 +158,31 @@
       \field{pages}{737\bibrangedash 747}
       \range{pages}{11}
       \keyw{Aloe vera; hyperglycemia; meta-analysis; systematic reviews}
+    \endentry
+    \entry{JavaidandZafar}{article}{}
+      \name{author}{1}{}{%
+        {{hash=dd8a9a7e0816bba6e3647d0e28f9561c}{%
+           family={Sobia\bibnamedelima Javaid},
+           familyi={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Maleeha\bibnamedelima Zafar},
+           giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+      }
+      \strng{namehash}{dd8a9a7e0816bba6e3647d0e28f9561c}
+      \strng{fullhash}{dd8a9a7e0816bba6e3647d0e28f9561c}
+      \strng{bibnamehash}{dd8a9a7e0816bba6e3647d0e28f9561c}
+      \strng{authorbibnamehash}{dd8a9a7e0816bba6e3647d0e28f9561c}
+      \strng{authornamehash}{dd8a9a7e0816bba6e3647d0e28f9561c}
+      \strng{authorfullhash}{dd8a9a7e0816bba6e3647d0e28f9561c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Rawalpindi Medical College (JRMC)}
+      \field{title}{Comparative Metabolic Properties of Aloe Vera Extracts and Sitagliptin in Diabetic Rats}
+      \field{year}{2022}
+      \verb{doi}
+      \verb https://doi.org/10.37939/jrmc.v26i3.1746
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

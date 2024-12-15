@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.11.26)  14 DEC 2024 14:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.11.30)  14 DEC 2024 22:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/media/ciim/e3235d07-ccb5-4e56-9c4b-c91b869b26e1/Plan-Tesis/Tesis.tex
-(/media/ciim/e3235d07-ccb5-4e56-9c4b-c91b869b26e1/Plan-Tesis/Tesis.tex
+**/home/ubuntu/Documentos/Plan_tesis/PlanT/Tesis.tex
+(/home/ubuntu/Documentos/Plan_tesis/PlanT/Tesis.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
@@ -508,9 +508,9 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language38). Reported on input line 105.
+(babel)             (\language36). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language38). Reported on input line 108.
+(babel)             (\language36). Reported on input line 108.
 )) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
@@ -1412,7 +1412,7 @@ Package pdftex.def Info: figuras/ib.png  used on input line 89.
 Capítulo 3.
 File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
-Package pdftex.def Info: figuras/ib.png  used on input line 14.
+Package pdftex.def Info: figuras/ib.png  used on input line 11.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
 [8
 
@@ -1488,7 +1488,7 @@ File: figuras/ib.png Graphic file (type png)
 Package pdftex.def Info: figuras/ib.png  used on input line 50.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
  [18]
-<figuras/Flujograma.png, id=314, 530.73282pt x 1176.64594pt>
+<figuras/Flujograma.png, id=319, 530.73282pt x 1176.64594pt>
 File: figuras/Flujograma.png Graphic file (type png)
 <use figuras/Flujograma.png>
 Package pdftex.def Info: figuras/Flujograma.png  used on input line 55.
@@ -1547,18 +1547,18 @@ Package logreq Info: Writing requests to 'Tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39505 strings out of 474222
- 779270 string characters out of 5748732
- 1947975 words of memory out of 5000000
- 60872 multiletter control sequences out of 15000+600000
+ 39513 strings out of 474222
+ 779547 string characters out of 5748732
+ 1948975 words of memory out of 5000000
+ 60878 multiletter control sequences out of 15000+600000
  606477 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,13n,97p,1998b,2245s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,13n,97p,1979b,2245s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb>
-Output written on Tesis.pdf (23 pages, 2818502 bytes).
+Output written on Tesis.pdf (23 pages, 2823439 bytes).
 PDF statistics:
- 396 PDF objects out of 1000 (max. 8388607)
- 329 compressed objects within 4 object streams
- 66 named destinations out of 1000 (max. 500000)
+ 404 PDF objects out of 1000 (max. 8388607)
+ 337 compressed objects within 4 object streams
+ 68 named destinations out of 1000 (max. 500000)
  420 words of extra memory for PDF output out of 10000 (max. 10000000)
 
