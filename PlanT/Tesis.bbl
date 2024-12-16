@@ -19,6 +19,99 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{GuevaraTirado2024}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8467df70d60e2419a6c3262d999ef3b0}{%
+           family={Guevara\bibnamedelima Tirado},
+           familyi={G\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Alberto},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Editorial Biotecnologica S.R.L.}%
+      }
+      \strng{namehash}{8467df70d60e2419a6c3262d999ef3b0}
+      \strng{fullhash}{8467df70d60e2419a6c3262d999ef3b0}
+      \strng{bibnamehash}{8467df70d60e2419a6c3262d999ef3b0}
+      \strng{authorbibnamehash}{8467df70d60e2419a6c3262d999ef3b0}
+      \strng{authornamehash}{8467df70d60e2419a6c3262d999ef3b0}
+      \strng{authorfullhash}{8467df70d60e2419a6c3262d999ef3b0}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0325-5247}
+      \field{journaltitle}{Revista de la Sociedad Argentina de Diabetes}
+      \field{month}{4}
+      \field{number}{1}
+      \field{title}{Determinación del riesgo de diabetes mellitus tipo 2 en la población peruana. Encuesta Demográfica y de Salud Familiar 2022}
+      \field{volume}{58}
+      \field{year}{2024}
+      \field{pages}{34\bibrangedash 40}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.47196/diab.v58i1.727
+      \endverb
+    \endentry
+    \entry{Rachin2024}{article}{}
+      \name{author}{6}{}{%
+        {{hash=3176d165d61c36c3037f1e1671504f1f}{%
+           family={Rachin},
+           familyi={R\bibinitperiod},
+           given={A.P.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1d520d0da434e5070c12de725b8e7db0}{%
+           family={Sharov},
+           familyi={S\bibinitperiod},
+           given={M.N.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7dfa0db44c4c004090426667a0d75f2e}{%
+           family={Karpov},
+           familyi={K\bibinitperiod},
+           given={S.M.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=3e6fa47b1339d01bd1e25394d17ac243}{%
+           family={Rachin},
+           familyi={R\bibinitperiod},
+           given={S.A.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2beef8fd93ccfd838ddb7a287380be79}{%
+           family={Prokofieva},
+           familyi={P\bibinitperiod},
+           given={Y.S.},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=09060ba79f0fbfd0da45993ac8289cfb}{%
+           family={Parsamyan},
+           familyi={P\bibinitperiod},
+           given={R.R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {MEDIKON LLC}%
+      }
+      \strng{namehash}{5ce1e9f574e8ee4754a311bd0bb4519f}
+      \strng{fullhash}{d7a08f786ccfb91d2aef10ebbec82084}
+      \strng{bibnamehash}{5ce1e9f574e8ee4754a311bd0bb4519f}
+      \strng{authorbibnamehash}{5ce1e9f574e8ee4754a311bd0bb4519f}
+      \strng{authornamehash}{5ce1e9f574e8ee4754a311bd0bb4519f}
+      \strng{authorfullhash}{d7a08f786ccfb91d2aef10ebbec82084}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{3034-185X}
+      \field{journaltitle}{Comorbidity neurology}
+      \field{month}{9}
+      \field{number}{3}
+      \field{title}{Diabetic Polyneuropathy: from Pathogenesis to Therapy and Prevention (to Help the General Practitioner)}
+      \field{volume}{1}
+      \field{year}{2024}
+      \field{pages}{101\bibrangedash 108}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.62505/3034-185x-2024-1-3-101-108
+      \endverb
+    \endentry
     \entry{Publications2024}{book}{}
       \name{author}{1}{}{%
         {{hash=dfa31d4f499f74aeb60e169fbeeda842}{%
@@ -46,8 +139,8 @@
       \strng{editorbibnamehash}{014fc4f155c981a939c4e6c94319908a}
       \strng{editornamehash}{014fc4f155c981a939c4e6c94319908a}
       \strng{editorfullhash}{014fc4f155c981a939c4e6c94319908a}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{10}
@@ -57,38 +150,302 @@
       \verb https://doi.org/10.36255/type-2-diabetes-public-education
       \endverb
     \endentry
-    \entry{GuevaraTirado2024}{article}{}
-      \name{author}{1}{}{%
-        {{hash=8467df70d60e2419a6c3262d999ef3b0}{%
-           family={Guevara\bibnamedelima Tirado},
-           familyi={G\bibinitperiod\bibinitdelim T\bibinitperiod},
-           given={Alberto},
+    \entry{Masyita2024}{article}{}
+      \name{author}{4}{}{%
+        {{hash=edf1e3d280f8cebc69a3dcc2817b91f9}{%
+           family={Masyita},
+           familyi={M\bibinitperiod},
+           given={Ayu},
            giveni={A\bibinitperiod}}}%
+        {{hash=2ede4582d1c2dad05b25084d90141c47}{%
+           family={Firdayani},
+           familyi={F\bibinitperiod},
+           given={Firdayani},
+           giveni={F\bibinitperiod}}}%
+        {{hash=494818cb75dfc29bdcab82d32b752866}{%
+           family={Listiana},
+           familyi={L\bibinitperiod},
+           given={Shelvi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2738e40b8d3221daea08e8ee39b50f87}{%
+           family={Besari},
+           familyi={B\bibinitperiod},
+           given={Ariza\bibnamedelima Yandwiputra},
+           giveni={A\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {525 B ST, STE 1900, SAN DIEGO, CA 92101-4495 USA}%
       }
       \list{publisher}{1}{%
-        {Editorial Biotecnologica S.R.L.}%
+        {ACADEMIC PRESS INC ELSEVIER SCIENCE}%
       }
-      \strng{namehash}{8467df70d60e2419a6c3262d999ef3b0}
-      \strng{fullhash}{8467df70d60e2419a6c3262d999ef3b0}
-      \strng{bibnamehash}{8467df70d60e2419a6c3262d999ef3b0}
-      \strng{authorbibnamehash}{8467df70d60e2419a6c3262d999ef3b0}
-      \strng{authornamehash}{8467df70d60e2419a6c3262d999ef3b0}
-      \strng{authorfullhash}{8467df70d60e2419a6c3262d999ef3b0}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \strng{namehash}{274b39d43fabbdd7eb410707b0415c19}
+      \strng{fullhash}{2d73298596c18d0a9e1880f6141b135b}
+      \strng{bibnamehash}{274b39d43fabbdd7eb410707b0415c19}
+      \strng{authorbibnamehash}{274b39d43fabbdd7eb410707b0415c19}
+      \strng{authornamehash}{274b39d43fabbdd7eb410707b0415c19}
+      \strng{authorfullhash}{2d73298596c18d0a9e1880f6141b135b}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issn}{0325-5247}
-      \field{journaltitle}{Revista de la Sociedad Argentina de Diabetes}
-      \field{month}{4}
-      \field{number}{1}
-      \field{title}{Determinación del riesgo de diabetes mellitus tipo 2 en la población peruana. Encuesta Demográfica y de Salud Familiar 2022}
-      \field{volume}{58}
+      \field{abstract}{Dipeptidyl peptidase-4 (DPP-4) inhibitors have gained recognition as effective agents for lowering blood sugar levels, significantly improving glycemic control for individuals with type 2 diabetes mellitus (T2DM). Emodin, an anthraquinone derived from the traditional herbs rhubarb (Rheum officinale) and Polygonum cuspidatum, has been identified as an important component in the development of new treatments for diabetes. In the present work, we explored the DPP-4 inhibitory activity of emodin derivatives. This study focused on the design, synthesis, and evaluation of emodin derivatives for their in vitro DPP-4 inhibitory activity. Molecular docking studies indicated that 3-o-toluoyl emodin (OTEM) had the lowest docking score (-134.073) against the DPP-4 protein among the tested compounds. OTEM also achieved the highest drug-likeness score of 0.56 and demonstrated DPP-4 inhibitory activity, with an IC50 value of 0.77 mu M. Furthermore, structure-activity relationship (SAR) analysis suggested that the addition of an ortho-toluoyl group at the C-3 position could enhance DPP-4 inhibition. Additionally, quantitative structure-activity relationship (QSAR) model assessments revealed that log P was the only descriptor significantly influencing DPP-4 inhibitory activity. Therefore, the current study indicates that OTEM could serve as a promising lead compound to address the demand for antidiabetic agents.}
+      \field{issn}{0006-291X}
+      \field{journaltitle}{BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS}
+      \field{month}{11}
+      \field{title}{Emodin derivatives as novel potent DPP-4 inhibitors: Design, synthesis, and in vitro evaluation}
+      \field{type}{Article}
+      \field{volume}{735}
       \field{year}{2024}
-      \field{pages}{34\bibrangedash 40}
-      \range{pages}{7}
       \verb{doi}
-      \verb 10.47196/diab.v58i1.727
+      \verb 10.1016/j.bbrc.2024.150867
+      \endverb
+      \keyw{Antidiabetic; DPP-4 inhibitor; Emodin; T2DM}
+    \endentry
+    \entry{Singhal2024}{article}{}
+      \name{author}{4}{}{%
+        {{hash=e8f4a4437430879295e035fdfd65cc9c}{%
+           family={Singhal},
+           familyi={S\bibinitperiod},
+           given={Shipra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fd7d285766928859c3b6b445e4ca02e5}{%
+           family={Manikrao\bibnamedelima Patil},
+           familyi={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Vaishali},
+           giveni={V\bibinitperiod}}}%
+        {{hash=8087b049c33eb7782940e4a854871c31}{%
+           family={Verma},
+           familyi={V\bibinitperiod},
+           given={Saroj},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a6a233cb6feadb6e8d0bb8e172d0575d}{%
+           family={Masand},
+           familyi={M\bibinitperiod},
+           given={Neeraj},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{f8be27114983e20e13440064a397218e}
+      \strng{fullhash}{6675212621eff0dbf239dc872cd8469f}
+      \strng{bibnamehash}{f8be27114983e20e13440064a397218e}
+      \strng{authorbibnamehash}{f8be27114983e20e13440064a397218e}
+      \strng{authornamehash}{f8be27114983e20e13440064a397218e}
+      \strng{authorfullhash}{6675212621eff0dbf239dc872cd8469f}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0045-2068}
+      \field{journaltitle}{Bioorganic Chemistry}
+      \field{month}{5}
+      \field{title}{Recent advances and structure-activity relationship studies of DPP-4 inhibitors as anti-diabetic agents}
+      \field{volume}{146}
+      \field{year}{2024}
+      \field{pages}{107277}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.bioorg.2024.107277
+      \endverb
+    \endentry
+    \entry{Shao2024}{article}{}
+      \name{author}{3}{}{%
+        {{hash=00713a3201aeb56b333bdfcf8c67233f}{%
+           family={Shao},
+           familyi={S\bibinitperiod},
+           given={Dong-Wei},
+           giveni={D\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=b185c7d450e2d443f886ebf16cffdbf5}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Li-Jie},
+           giveni={L\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=8d1a83d5e56f329ab7365f88e9cad2e7}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Jin-Feng},
+           giveni={J\bibinithyphendelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{244b4ef24e31d1f28074cbe06e75dedc}
+      \strng{fullhash}{244b4ef24e31d1f28074cbe06e75dedc}
+      \strng{bibnamehash}{244b4ef24e31d1f28074cbe06e75dedc}
+      \strng{authorbibnamehash}{244b4ef24e31d1f28074cbe06e75dedc}
+      \strng{authornamehash}{244b4ef24e31d1f28074cbe06e75dedc}
+      \strng{authorfullhash}{244b4ef24e31d1f28074cbe06e75dedc}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0223-5234}
+      \field{journaltitle}{European Journal of Medicinal Chemistry}
+      \field{month}{6}
+      \field{title}{Synthesis and clinical application of representative small-molecule dipeptidyl Peptidase-4 (DPP-4) inhibitors for the treatment of type 2 diabetes mellitus (T2DM)}
+      \field{volume}{272}
+      \field{year}{2024}
+      \field{pages}{116464}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.ejmech.2024.116464
+      \endverb
+    \endentry
+    \entry{Maya2024}{article}{}
+      \name{author}{2}{}{%
+        {{hash=719fe28004fcdd81a820602924aa8074}{%
+           family={Maya},
+           familyi={M\bibinitperiod}}}%
+        {{hash=8cd8d47835f82d8251f517b2db7841b8}{%
+           family={Yadav},
+           familyi={Y\bibinitperiod},
+           given={Raj\bibnamedelima KS},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {International Journal of Pharmaceutical Sciences}%
+        {Drug Research}%
+      }
+      \strng{namehash}{81d86763daeffb673be8f6fad10dadb2}
+      \strng{fullhash}{81d86763daeffb673be8f6fad10dadb2}
+      \strng{bibnamehash}{81d86763daeffb673be8f6fad10dadb2}
+      \strng{authorbibnamehash}{81d86763daeffb673be8f6fad10dadb2}
+      \strng{authornamehash}{81d86763daeffb673be8f6fad10dadb2}
+      \strng{authorfullhash}{81d86763daeffb673be8f6fad10dadb2}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0975-248X}
+      \field{journaltitle}{International Journal of Pharmaceutical Sciences and Drug Research}
+      \field{month}{9}
+      \field{title}{Molecular Docking and ADMET Profiling of Novel Human Dipeptidyl Peptidase-IV Inhibitors of Natural Origin from Dalbergia sissoo: In Silico Prediction in Antidiabetic Potential}
+      \field{year}{2024}
+      \field{pages}{841\bibrangedash 854}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.25004/ijpsdr.2024.160512
+      \endverb
+    \endentry
+    \entry{DeLaTorre2024}{article}{}
+      \name{author}{8}{}{%
+        {{hash=d71325028b9e98be78e25f6975c9480f}{%
+           family={De\bibnamedelima La\bibnamedelima Torre},
+           familyi={D\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Sandra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=888f2f2a921124ee7ed2d48a85761d9c}{%
+           family={Cuesta},
+           familyi={C\bibinitperiod},
+           given={Sebastián\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=6f3e8129dc93163581ab98fa72b323e4}{%
+           family={Calle},
+           familyi={C\bibinitperiod},
+           given={Luis},
+           giveni={L\bibinitperiod}}}%
+        {{hash=fef8683db943b72ced206c3f87d244e4}{%
+           family={Mora},
+           familyi={M\bibinitperiod},
+           given={José\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=a87bc12e44cb8d0d4f363ab8a09b3e94}{%
+           family={Paz},
+           familyi={P\bibinitperiod},
+           given={Jose\bibnamedelima L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=e23c7eba704de50dc3a4bfe7fb40cba2}{%
+           family={Espinoza-Montero},
+           familyi={E\bibinithyphendelim M\bibinitperiod},
+           given={Patricio\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=07241bc77ece8797b931e3fcf00a401a}{%
+           family={Flores-Sumoza},
+           familyi={F\bibinithyphendelim S\bibinitperiod},
+           given={Máryury},
+           giveni={M\bibinitperiod}}}%
+        {{hash=63d3a64237f6a9325b9b3cda2814ec70}{%
+           family={Márquez},
+           familyi={M\bibinitperiod},
+           given={Edgar\bibnamedelima A.},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{68c9617794121137e9b0994eed4f533f}
+      \strng{fullhash}{84ce8ba13e59af73eb49c8ac366e4b41}
+      \strng{bibnamehash}{68c9617794121137e9b0994eed4f533f}
+      \strng{authorbibnamehash}{68c9617794121137e9b0994eed4f533f}
+      \strng{authornamehash}{68c9617794121137e9b0994eed4f533f}
+      \strng{authorfullhash}{84ce8ba13e59af73eb49c8ac366e4b41}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1476-9271}
+      \field{journaltitle}{Computational Biology and Chemistry}
+      \field{month}{10}
+      \field{title}{Computational approaches for lead compound discovery in dipeptidyl peptidase-4 inhibition using machine learning and molecular dynamics techniques}
+      \field{volume}{112}
+      \field{year}{2024}
+      \field{pages}{108145}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.compbiolchem.2024.108145
+      \endverb
+    \endentry
+    \entry{Ushasree2024}{article}{}
+      \name{author}{4}{}{%
+        {{hash=7a3dea21d8296e6af5246af415b7776c}{%
+           family={Ushasree},
+           familyi={U\bibinitperiod},
+           given={Mrudulakumari\bibnamedelima Vasudevan},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=d971df9441d60af93a87545e6a8f8841}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={Qi},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=bc5638463d1c39561b671207bb5c3ae6}{%
+           family={Do},
+           familyi={D\bibinitperiod},
+           given={Seon\bibnamedelima Gil},
+           giveni={S\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=5e1f2464502af028b41e8c75cce9fe24}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Eun\bibnamedelima Yeol},
+           giveni={E\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{840c7a3611bba50fb63ab19c443efa30}
+      \strng{fullhash}{3736c396d809b6baa04a58263e362294}
+      \strng{bibnamehash}{840c7a3611bba50fb63ab19c443efa30}
+      \strng{authorbibnamehash}{840c7a3611bba50fb63ab19c443efa30}
+      \strng{authornamehash}{840c7a3611bba50fb63ab19c443efa30}
+      \strng{authorfullhash}{3736c396d809b6baa04a58263e362294}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0734-9750}
+      \field{journaltitle}{Biotechnology Advances}
+      \field{month}{5}
+      \field{title}{New opportunities and perspectives on biosynthesis and bioactivities of secondary metabolites from Aloe vera}
+      \field{volume}{72}
+      \field{year}{2024}
+      \field{pages}{108325}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.biotechadv.2024.108325
       \endverb
     \endentry
     \entry{Budiastutik2022}{article}{}
@@ -142,8 +499,8 @@
       \strng{authorbibnamehash}{f64dcc69acc93625e725ff2347c87adc}
       \strng{authornamehash}{f64dcc69acc93625e725ff2347c87adc}
       \strng{authorfullhash}{84dea1078e47825884e69dea1167baba}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Context: : Aloe vera is a traditional medicinal plant that shows a wide range of biological activities. Previous studies demonstrated the antihyperglycemic effect of Aloe vera but with inconsistent results. Aims: To quantitatively summarize the effect of Aloe vera on fasting blood glucose in pre-diabetes and type 2 diabetes mellitus by a meta-analysis. Methods: PubMed, Scopus, Springer Link, Science Direct, Proquest, and Google Scholar were used to identify clinical trials evaluating the effect of Aloe vera on fasting blood glucose published between 2011 and 2021. The inclusion criteria were: (1) original research with a clinical trial design evaluating the effect of Aloe vera on fasting blood glucose in pre-diabetes and/or type 2 diabetes mellitus; (2) providing the data of the mean fasting blood glucose and standard deviation in both control and intervention group, and; (3) Aloe vera was used as the only intervention. The pooled effect of Aloe vera on fasting blood glucose was evaluated using the random effect model, and publication bias was assessed by Funnel plots and Fail Safe-N. Results: A total of 25 trials were included from 13 publications involving 642 patients. The results showed that Aloe vera significantly reduced fasting blood glucose (-0.35 {[}95\% CI, -1454, -0.616] mg/dL; p<0.001) compared to control. Aloe vera might have a more remarkable effect in males, BMI not more than 30 mg/kg(2), type 2 diabetes mellitus, administered for >= 8 weeks, dose at 200 mg, and capsule administration. However, a high heterogeneity across the studies was found. Conclusions: Aloe vera may reduce fasting blood glucose in pre-diabetes and type 2 diabetes mellitus. However, further study with a well-design and standardized preparation is needed to emphasize the effect of Aloe vera on blood glucose control.}
@@ -159,7 +516,56 @@
       \range{pages}{11}
       \keyw{Aloe vera; hyperglycemia; meta-analysis; systematic reviews}
     \endentry
-    \entry{JavaidandZafar}{article}{}
+    \entry{Prasannaraja2020}{article}{}
+      \name{author}{4}{}{%
+        {{hash=efa5a2c1353b80736d18a29bd7b728c7}{%
+           family={Prasannaraja},
+           familyi={P\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=655dd76ce17dd41e37e32b6e834b31fc}{%
+           family={Kamalanathan},
+           familyi={K\bibinitperiod},
+           given={A.\bibnamedelimi S.},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=b0bb51e87a270168b2333adf9fa7f030}{%
+           family={Vijayalakshmi},
+           familyi={V\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=183aa44d92eed2874540a1060a54f332}{%
+           family={Venkataraman},
+           familyi={V\bibinitperiod},
+           given={Krishnan},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Informa UK Limited}%
+      }
+      \strng{namehash}{1452ab90f9376ac4f3df46ae246d9af2}
+      \strng{fullhash}{3a74d792119e5840842ca594ac33825e}
+      \strng{bibnamehash}{1452ab90f9376ac4f3df46ae246d9af2}
+      \strng{authorbibnamehash}{1452ab90f9376ac4f3df46ae246d9af2}
+      \strng{authornamehash}{1452ab90f9376ac4f3df46ae246d9af2}
+      \strng{authorfullhash}{3a74d792119e5840842ca594ac33825e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1532-2297}
+      \field{journaltitle}{Preparative Biochemistry; Biotechnology}
+      \field{month}{1}
+      \field{number}{5}
+      \field{title}{A dipyrrole derivative from Aloe vera inhibits an anti-diabetic drug target Dipeptidyl Peptidase (DPP)-IV in vitro}
+      \field{volume}{50}
+      \field{year}{2020}
+      \field{pages}{511\bibrangedash 520}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1080/10826068.2019.1710712
+      \endverb
+    \endentry
+    \entry{Javaid2022}{article}{}
       \name{author}{1}{}{%
         {{hash=dd8a9a7e0816bba6e3647d0e28f9561c}{%
            family={Sobia\bibnamedelima Javaid},
@@ -173,8 +579,8 @@
       \strng{authorbibnamehash}{dd8a9a7e0816bba6e3647d0e28f9561c}
       \strng{authornamehash}{dd8a9a7e0816bba6e3647d0e28f9561c}
       \strng{authorfullhash}{dd8a9a7e0816bba6e3647d0e28f9561c}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Rawalpindi Medical College (JRMC)}
@@ -182,6 +588,275 @@
       \field{year}{2022}
       \verb{doi}
       \verb https://doi.org/10.37939/jrmc.v26i3.1746
+      \endverb
+    \endentry
+    \entry{Lu2023}{article}{}
+      \name{author}{9}{}{%
+        {{hash=e6ebfc3b107fde3a9f136f91a993cdc0}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Gen},
+           giveni={G\bibinitperiod}}}%
+        {{hash=b6fb17627f34dbb320f0f428cf088228}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod}}}%
+        {{hash=87a090b5ea4ce79fe9fa9d53422f7a56}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xiaotong},
+           giveni={X\bibinitperiod}}}%
+        {{hash=38c0849b52ccae7d11d3683bbc584ec0}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Zehui},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=83ab589fc1432ce949cb31441d689991}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Lei},
+           giveni={L\bibinitperiod}}}%
+        {{hash=e068673e0802b7d1df18056ca06fa78b}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Ya},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=c9c2d1b8e5efca25ed2c7f74743fae53}{%
+           family={Tian},
+           familyi={T\bibinitperiod},
+           given={Wenli},
+           giveni={W\bibinitperiod}}}%
+        {{hash=0544bf48d4917b6761c64eb19603810b}{%
+           family={Peng},
+           familyi={P\bibinitperiod},
+           given={Wenjun},
+           giveni={W\bibinitperiod}}}%
+        {{hash=6b52acc3deb7fbca1565a83144d3c7d5}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jinling},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Informa UK Limited}%
+      }
+      \strng{namehash}{6d01a9021fb94247caa517f18e2a78b9}
+      \strng{fullhash}{2e3af29dd2ccf36136fca6d64096d9f2}
+      \strng{bibnamehash}{6d01a9021fb94247caa517f18e2a78b9}
+      \strng{authorbibnamehash}{6d01a9021fb94247caa517f18e2a78b9}
+      \strng{authornamehash}{6d01a9021fb94247caa517f18e2a78b9}
+      \strng{authorfullhash}{2e3af29dd2ccf36136fca6d64096d9f2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1538-0254}
+      \field{journaltitle}{Journal of Biomolecular Structure and Dynamics}
+      \field{month}{7}
+      \field{number}{13}
+      \field{title}{Virtual screening strategy for anti-DPP-IV natural flavonoid derivatives based on machine learning}
+      \field{volume}{42}
+      \field{year}{2023}
+      \field{pages}{6645\bibrangedash 6659}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1080/07391102.2023.2237594
+      \endverb
+    \endentry
+    \entry{Zollapi2023}{article}{}
+      \name{author}{4}{}{%
+        {{hash=07b03d4c88377d7b3d3d3f74e69a4cdc}{%
+           family={Zollapi},
+           familyi={Z\bibinitperiod},
+           given={Nuraliana\bibnamedelimb Najwa\bibnamedelima Hamsah},
+           giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=1e9b4fc68755e6c399cf81e232d23ce6}{%
+           family={Taib},
+           familyi={T\bibinitperiod},
+           given={Raihan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=42b55e873fdf462ecc442aa3d1a024e4}{%
+           family={Zakaria},
+           familyi={Z\bibinitperiod},
+           given={Nurfatini},
+           giveni={N\bibinitperiod}}}%
+        {{hash=0f6adb5d4e7c56cafc044889eb96894b}{%
+           family={Khayat},
+           familyi={K\bibinitperiod},
+           given={Mohd\bibnamedelima Ezuan},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Hibiscus Publisher Enterprise}%
+      }
+      \strng{namehash}{7d23999d68b41ed95ae7fd71d3d89e05}
+      \strng{fullhash}{0ed0cad48c3d7e1a1c623e634ebde24b}
+      \strng{bibnamehash}{7d23999d68b41ed95ae7fd71d3d89e05}
+      \strng{authorbibnamehash}{7d23999d68b41ed95ae7fd71d3d89e05}
+      \strng{authornamehash}{7d23999d68b41ed95ae7fd71d3d89e05}
+      \strng{authorfullhash}{0ed0cad48c3d7e1a1c623e634ebde24b}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2289-5779}
+      \field{journaltitle}{Journal of Biochemistry, Microbiology and Biotechnology}
+      \field{month}{7}
+      \field{number}{1}
+      \field{title}{Identification of Dipeptidyl-Peptidase 4 (DPP-4) Inhibitors from Miracle Berry Fruit (Synsepalum dulcificum) Extract}
+      \field{volume}{11}
+      \field{year}{2023}
+      \field{pages}{42\bibrangedash 47}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.54987/jobimb.v11i1.805
+      \endverb
+    \endentry
+    \entry{Suleiman2024}{article}{}
+      \name{author}{4}{}{%
+        {{hash=66e86d1fd36840b3e7ea097b840e6f25}{%
+           family={Suleiman},
+           familyi={S\bibinitperiod},
+           given={Marharyta\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=eb87b0b301fd88251c1598a4e8e18aa9}{%
+           family={Semenets},
+           familyi={S\bibinitperiod},
+           given={Anton\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=6e7df38e53b7d90f2c2f8cf54acbb4e4}{%
+           family={Kobzar},
+           familyi={K\bibinitperiod},
+           given={Nataliia\bibnamedelima P.},
+           giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=14303ddc02ababd092606e80f3f32bbb}{%
+           family={Perekhoda},
+           familyi={P\bibinitperiod},
+           given={Lina\bibnamedelima O.},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {National University of Pharmacy}%
+      }
+      \strng{namehash}{e1aa35ac563170ca8c7e6fdbc37926e8}
+      \strng{fullhash}{2c2f1dbd6bb0e26f5d7d9a6207e3e34d}
+      \strng{bibnamehash}{e1aa35ac563170ca8c7e6fdbc37926e8}
+      \strng{authorbibnamehash}{e1aa35ac563170ca8c7e6fdbc37926e8}
+      \strng{authornamehash}{e1aa35ac563170ca8c7e6fdbc37926e8}
+      \strng{authorfullhash}{2c2f1dbd6bb0e26f5d7d9a6207e3e34d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2308-8303}
+      \field{journaltitle}{урнал органічної та фармацевтичної хімії}
+      \field{month}{6}
+      \field{number}{1}
+      \field{title}{The Theoretical Substantiation of the Targeted Search for New DPP4 Inhibitors. Computational Studies of Potential Candidates}
+      \field{volume}{22}
+      \field{year}{2024}
+      \field{pages}{3\bibrangedash 12}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.24959/ophcj.24.302677
+      \endverb
+    \endentry
+    \entry{Kazeem2021}{article}{}
+      \name{author}{5}{}{%
+        {{hash=fdc0e6674f6ed7bf1beef03ce8ebc44d}{%
+           family={Kazeem},
+           familyi={K\bibinitperiod},
+           given={Mutiu},
+           giveni={M\bibinitperiod}}}%
+        {{hash=5f165120017b7a9a4bba04f6b308f9fe}{%
+           family={Bankole},
+           familyi={B\bibinitperiod},
+           given={Habeeb},
+           giveni={H\bibinitperiod}}}%
+        {{hash=dbefec88f051769527d23fe27be515f5}{%
+           family={Ogunrinola},
+           familyi={O\bibinitperiod},
+           given={Olabisi},
+           giveni={O\bibinitperiod}}}%
+        {{hash=47469f86ce86ae82242a880767a06c31}{%
+           family={Wusu},
+           familyi={W\bibinitperiod},
+           given={Adedoja},
+           giveni={A\bibinitperiod}}}%
+        {{hash=02ce7775e26adf7eb6268739abd584bb}{%
+           family={Kappo},
+           familyi={K\bibinitperiod},
+           given={Abidemi},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{179d94a9e0cd0314f9f51f153d1878d8}
+      \strng{fullhash}{6c86ae55a6691daf3d8c2a0dd2c6a3fc}
+      \strng{bibnamehash}{179d94a9e0cd0314f9f51f153d1878d8}
+      \strng{authorbibnamehash}{179d94a9e0cd0314f9f51f153d1878d8}
+      \strng{authornamehash}{179d94a9e0cd0314f9f51f153d1878d8}
+      \strng{authorfullhash}{6c86ae55a6691daf3d8c2a0dd2c6a3fc}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2643-8429}
+      \field{journaltitle}{Food Frontiers}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{Functional foods with dipeptidyl peptidase‐4 inhibitory potential and management of type 2 diabetes: A review}
+      \field{volume}{2}
+      \field{year}{2021}
+      \field{pages}{153\bibrangedash 162}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1002/fft2.71
+      \endverb
+    \endentry
+    \entry{Kathiraven2024}{article}{}
+      \name{author}{3}{}{%
+        {{hash=65231df2a4811f2a2b753f2d52dda7b2}{%
+           family={Kathiraven},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e854d0889ece12f15be281f7483410a6}{%
+           family={Srimathi},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=95f7c2c3745b9f077faa2a9b74feac3f}{%
+           family={M.K},
+           familyi={M\bibinitperiod},
+           given={Kathiravan.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {A}%
+        {V Publications}%
+      }
+      \strng{namehash}{5f9fe67e5411585c09f95d68b0891321}
+      \strng{fullhash}{5f9fe67e5411585c09f95d68b0891321}
+      \strng{bibnamehash}{5f9fe67e5411585c09f95d68b0891321}
+      \strng{authorbibnamehash}{5f9fe67e5411585c09f95d68b0891321}
+      \strng{authornamehash}{5f9fe67e5411585c09f95d68b0891321}
+      \strng{authorfullhash}{5f9fe67e5411585c09f95d68b0891321}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0974-3618}
+      \field{journaltitle}{Research Journal of Pharmacy and Technology}
+      \field{month}{8}
+      \field{title}{Exploring the Relationship of DPP-IV Inhibitors in the treatment of Diabetes and Cardiovascular Disease}
+      \field{year}{2024}
+      \field{pages}{3553\bibrangedash 3559}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.52711/0974-360x.2024.00555
       \endverb
     \endentry
   \enddatalist

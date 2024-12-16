@@ -86,11 +86,12 @@
   groups    = {Fundamento teórico},
 }
 
-@Article{JavaidandZafar,
+@Article{2022,
   author  = {Sobia Javaid, Maleeha Zafar},
   title   = {Comparative Metabolic Properties of Aloe Vera Extracts and Sitagliptin in Diabetic Rats},
   journal = {Journal of Rawalpindi Medical College (JRMC)},
   year    = {2022},
+  doi     = {https://doi.org/10.37939/jrmc.v26i3.1746},
 }
 
 @Article{Lu2023,

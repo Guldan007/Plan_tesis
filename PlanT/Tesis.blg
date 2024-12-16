@@ -1,18 +1,18 @@
 [0] Config.pm:307> INFO - This is Biber 2.19
 [0] Config.pm:310> INFO - Logfile is 'Tesis.blg'
-[125] biber:340> INFO - === sáb dic 14, 2024, 22:07:29
-[150] Biber.pm:419> INFO - Reading 'Tesis.bcf'
-[239] Biber.pm:979> INFO - Found 4 citekeys in bib section 0
-[257] Biber.pm:4419> INFO - Processing section 0
-[272] Biber.pm:4610> INFO - Looking for bibtex file 'Tesis.bib' for section 0
-[275] bibtex.pm:1713> INFO - LaTeX decoding ...
-[325] bibtex.pm:1519> INFO - Found BibTeX data source 'Tesis.bib'
-[414] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[414] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[414] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[414] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
-[418] bbl.pm:660> INFO - Writing 'Tesis.bbl' with encoding 'UTF-8'
-[422] bbl.pm:763> INFO - Output to Tesis.bbl
-[422] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_l3aM/197826dcdb4a1a4be1793c857e2388cf_37509.utf8, line 3, warning: 3 characters of junk seen at toplevel
-[422] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp_l3aM/197826dcdb4a1a4be1793c857e2388cf_37509.utf8, line 259, warning: 3 characters of junk seen at toplevel
-[423] Biber.pm:133> INFO - WARNINGS: 2
+[125] biber:340> INFO - === dom dic 15, 2024, 23:06:40
+[160] Biber.pm:419> INFO - Reading 'Tesis.bcf'
+[251] Biber.pm:979> INFO - Found 17 citekeys in bib section 0
+[268] Biber.pm:4419> INFO - Processing section 0
+[293] Biber.pm:4610> INFO - Looking for bibtex file 'Tesis.bib' for section 0
+[297] bibtex.pm:1713> INFO - LaTeX decoding ...
+[341] bibtex.pm:1519> INFO - Found BibTeX data source 'Tesis.bib'
+[595] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[595] UCollate.pm:68> INFO - Overriding locale 'ru-RU' defaults 'variable = shifted' with 'variable = non-ignorable'
+[595] Biber.pm:4239> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'ru-RU'
+[595] Biber.pm:4245> INFO - No sort tailoring available for locale 'ru-RU'
+[615] bbl.pm:660> INFO - Writing 'Tesis.bbl' with encoding 'UTF-8'
+[628] bbl.pm:763> INFO - Output to Tesis.bbl
+[629] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp__2Hl/197826dcdb4a1a4be1793c857e2388cf_10152.utf8, line 3, warning: 3 characters of junk seen at toplevel
+[629] Biber.pm:131> WARN - BibTeX subsystem: /tmp/biber_tmp__2Hl/197826dcdb4a1a4be1793c857e2388cf_10152.utf8, line 259, warning: 3 characters of junk seen at toplevel
+[629] Biber.pm:133> INFO - WARNINGS: 2

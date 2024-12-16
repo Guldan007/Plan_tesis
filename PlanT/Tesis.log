@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.11.30)  14 DEC 2024 22:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.11.30)  15 DEC 2024 23:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -511,7 +511,225 @@ Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
 (babel)             (\language36). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (babel)             (\language36). Reported on input line 108.
-)) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/babel-russian/russianb.ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 78.
+
+(/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2022/06/11 v1.0j Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t2aenc.dfu
+File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+3008 (decimal 12296)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+3009 (decimal 12297)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+))
+Package babel Info: Default for \cyrdash is provided on input line 163.
+)) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex
+Package babel Info: Importing font and identification data for russian
+(babel)             from babel-ru.ini. Reported on input line 11.
+) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 ) (/usr/share/texlive/texmf-dist/tex/generic/babel/locale/es/babel-spanish.tex
@@ -1167,31 +1385,52 @@ Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
-Package csquotes Info: Redefining alias 'default' -> 'english'.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 57.
+Package csquotes Info: Redefining alias 'default' -> 'russian'.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 58.
  (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (./Tesis.aux (./introduccion.aux) (./planteamiento.aux) (./antecedentes.aux) (./marco-teorico.aux) (./planteamiento-metodologico.aux) (./cronograma.aux))
+) (./Tesis.aux
+LaTeX Font Info:    Trying to load font information for T2A+lmr on input line 12.
+LaTeX Font Info:    No file T2Almr.fd. on input line 12.
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 12.
+ (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+
+LaTeX Font Warning: Font shape `T2A/lmr/m/n' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 12.
+
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 13.
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) (./introduccion.aux) (./planteamiento.aux) (./antecedentes.aux) (./marco-teorico.aux) (./planteamiento-metodologico.aux) (./cronograma.aux))
 \openout1 = `Tesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 57.
-LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 58.
+LaTeX Font Info:    ... okay on input line 58.
+Package biblatex Info: Trying to load language 'russian'...
+Package biblatex Info: ... file 'russian.lbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/russian.lbx
+File: russian.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
  (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
@@ -1203,22 +1442,22 @@ Package biblatex Info: ... file 'spanish.lbx' found.
 File: spanish.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
-Package biblatex Info: Automatic encoding selection.
-(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
 \openout3 = `Tesis.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Tesis.bbl' found.
  (./Tesis.bbl)
-Package biblatex Info: Reference section=0 on input line 57.
-Package biblatex Info: Reference segment=0 on input line 57.
-Package hyperref Info: Link coloring OFF on input line 57.
+Package biblatex Info: Reference section=0 on input line 58.
+Package biblatex Info: Reference segment=0 on input line 58.
+Package hyperref Info: Link coloring OFF on input line 58.
  (./Tesis.out) (./Tesis.out)
 \@outlinefile=\write7
 \openout7 = `Tesis.out'.
 
 
-Package chemgreek Info: Activating mapping `default' on line 57.
+Package chemgreek Info: Activating mapping `default' on line 58.
 
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1239,6 +1478,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
+LaTeX Info: Redefining \th on input line 58.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: longtable package is loaded.
  (/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
@@ -1283,58 +1523,58 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+
+LaTeX Font Warning: Font shape `T2A/lmr/bx/n' undefined
+(Font)              using `T2A/lmr/m/n' instead on input line 67.
+
 <figuras/logo.png, id=179, 515.0442pt x 540.0978pt>
 File: figuras/logo.png Graphic file (type png)
 <use figuras/logo.png>
-Package pdftex.def Info: figuras/logo.png  used on input line 69.
+Package pdftex.def Info: figuras/logo.png  used on input line 70.
 (pdftex.def)             Requested size: 103.007pt x 108.01764pt.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 78.
-(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 78.
- (/usr/share/texmf/tex/latex/lm/omllmm.fd
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 79.
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 78.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 79.
  (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 78.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 79.
  (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 78.
+(Font)              <12> on input line 79.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 78.
+(Font)              <8> on input line 79.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 78.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 78.
+(Font)              <6> on input line 79.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 79.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 78.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 79.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 78.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 79.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <figuras/ib.png, id=180, 1344.52313pt x 1322.9425pt>
 File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
-Package pdftex.def Info: figuras/ib.png  used on input line 84.
+Package pdftex.def Info: figuras/ib.png  used on input line 85.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
  [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc} <./figuras/ib.png> <./figuras/logo.png>] (./Tesis.toc
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc} <./figuras/ib.png> <./figuras/logo.png>] (./Tesis.toc
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.22 ...otencial recurso natural}{12}{section.4.4}
+l.22 ...otencial recurso natural}{14}{section.4.4}
                                                   %
 File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
@@ -1348,19 +1588,33 @@ Package pdftex.def Info: figuras/ib.png  used on input line 22.
 
 File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
-Package pdftex.def Info: figuras/ib.png  used on input line 88.
+Package pdftex.def Info: figuras/ib.png  used on input line 89.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
  [2]
 \openout2 = `introduccion.aux'.
 
  (./introduccion.tex
 CapÃ­tulo 1.
+
+Overfull \hbox (5.20729pt too wide) in paragraph at lines 6--7
+[]\T2A/lmr/bx/n/12 El objetivo de mencionadas investigaciones fueron el de encontrar diversos compuestos
+ []
+
+
+Overfull \hbox (19.53511pt too wide) in paragraph at lines 6--7
+\T2A/lmr/bx/n/12 que puedan reducir la intervenci^^Aon farmac^^Aeutica o solo reducirla para poder ser reemplazada
+ []
+
 )
+Overfull \hbox (21.26167pt too wide) in paragraph at lines 8--89
+[]\T2A/lmr/bx/n/12 En esta investigaci^^Aon nos centraremos en el potencial de diversos metabolitos encontrados
+ []
+
 File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
-Package pdftex.def Info: figuras/ib.png  used on input line 88.
+Package pdftex.def Info: figuras/ib.png  used on input line 89.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
- [3
+[3
 
 
 ]
@@ -1377,118 +1631,366 @@ Package pdftex.def Info: figuras/ib.png  used on input line 14.
 
 
 
-]
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}]
+Overfull \hbox (19.47113pt too wide) in paragraph at lines 42--45
+\T2A/lmr/bx/n/12 t^^Aecnicas para el desarrollo de tratamientos, esto se demuestra en las estad^^A^^Ysticas encontradas
+ []
+
+
+Overfull \hbox (5.40395pt too wide) in paragraph at lines 42--45
+\T2A/lmr/bx/n/12 sobre la prevalencia de diabetes en el Per^^Au cuyo estado predice un aumento de prevalencia
+ []
+
+
+Overfull \hbox (21.16779pt too wide) in paragraph at lines 47--50
+\T2A/lmr/bx/n/12 metabolitos del aloe vera, documentando sus caracter^^A^^Ysticas estructurales y comportamiento
+ []
+
+
+Overfull \hbox (14.38062pt too wide) in paragraph at lines 47--50
+\T2A/lmr/bx/n/12 relaciones sistem^^Aaticas entre los diferentes compuestos, permitiendo cuantificar y comparar
+ []
+
+
+Overfull \hbox (8.90497pt too wide) in paragraph at lines 47--50
+\T2A/lmr/bx/n/12 su capacidad inhibitoria. Se contempla un an^^Aalisis exhaustivo que incluir^^Aa la identificaci^^Aon
+ []
+
+
+Overfull \hbox (10.98566pt too wide) in paragraph at lines 47--50
+\T2A/lmr/bx/n/12 de correlaciones estad^^A^^Ysticamente significativas entre los diferentes compuestos estudiados.
+ []
+
 File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
 Package pdftex.def Info: figuras/ib.png  used on input line 50.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
- [5]
+[5]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 59.
  (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 10000) in paragraph at lines 79--79
-[]|\T1/lmr/m/n/12 Energía li-bre de
+Overfull \hbox (4.2011pt too wide) in paragraph at lines 59--60
+[]\T2A/lmr/bx/n/12 Identificar las caracter^^A^^Ysticas metab^^Aolicas encontradas en la hidr^^Aolisis de la prote^^A^^Yna
  []
 
 
-Underfull \hbox (badness 2990) in paragraph at lines 81--81
-[]|\T1/lmr/m/n/12 Dinámica Molec-u-
+Overfull \hbox (44.47313pt too wide) in paragraph at lines 61--62
+\T2A/lmr/bx/n/12 con f^^Aarmacos convencionales utilizando softwares de biolog^^A^^Ya computacional, determinando
+ []
+
+
+Overfull \hbox (16.172pt too wide) in paragraph at lines 66--67
+\T2A/lmr/bx/n/12 Los metabolitos encontrados en el aloe vera presentar^^Aan propiedades inhibitorias superiores
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--77
+[]|\T2A/lmr/bx/n/12 Propiedades
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
+[]|\T2A/lmr/bx/n/12 Energ^^A^^Ya de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--79
+[]|\T2A/lmr/bx/n/12 Energ^^A^^Ya libre de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\T2A/lmr/bx/n/12 Proximidad
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+[]|\T2A/lmr/bx/n/12 Distancia entre
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+[]|\T2A/lmr/bx/n/12 Din^^Aamica
  []
 
 File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
 Package pdftex.def Info: figuras/ib.png  used on input line 83.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
-[6{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}])
+[6{/usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc}]
+Overfull \hbox (12.35736pt too wide) in paragraph at lines 94--95
+\T2A/lmr/bx/n/12 pero si unos resultados validados en el campo cu^^Aantico qu^^A^^Ymico y fisicoqu^^A^^Ymicas, generando
+ []
+
+)
 File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
-Package pdftex.def Info: figuras/ib.png  used on input line 89.
+Package pdftex.def Info: figuras/ib.png  used on input line 90.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
  [7]
 \openout2 = `antecedentes.aux'.
 
  (./antecedentes.tex
 CapÃ­tulo 3.
+
+Overfull \hbox (16.83234pt too wide) in paragraph at lines 5--6
+\T2A/lmr/bx/n/12 necesidad urgente de estrategias terap^^Aeuticas innovadoras y alternativas [[]2[]]. Los inhibidores
+ []
+
+
+Overfull \hbox (17.99527pt too wide) in paragraph at lines 5--6
+\T2A/lmr/bx/n/12 de la dipeptidil peptidasa-4 (DPP-4) han emergido como una l^^A^^Ynea terap^^Aeutica prometedora
+ []
+
+
+Overfull \hbox (17.9061pt too wide) in paragraph at lines 5--6
+\T2A/lmr/bx/n/12 de las afecciones a^^Cnadidas a la diabetes como lo es la falla renal, neuropat^^A^^Yas, retinoptolog^^A^^Yas
+ []
+
+
+Overfull \hbox (4.71223pt too wide) in paragraph at lines 9--11
+\T2A/lmr/bx/n/12 Analiz^^Ao 29.000 adultos no diab^^Aeticos cuyos datos provinieron de la Encuesta Demogr^^Aafica
+ []
+
 File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
-Package pdftex.def Info: figuras/ib.png  used on input line 10.
+Package pdftex.def Info: figuras/ib.png  used on input line 11.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
 [8
 
 
 
 
-])
-File: figuras/ib.png Graphic file (type png)
-<use figuras/ib.png>
-Package pdftex.def Info: figuras/ib.png  used on input line 90.
-(pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
- [9{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}]
-\openout2 = `marco-teorico.aux'.
-
- (./marco-teorico.tex
-CapÃ­tulo 4.
-File: figuras/ib.png Graphic file (type png)
-<use figuras/ib.png>
-Package pdftex.def Info: figuras/ib.png  used on input line 13.
-(pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
-[10
-
-
-
-
 ]
 File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
-Package pdftex.def Info: figuras/ib.png  used on input line 22.
+Package pdftex.def Info: figuras/ib.png  used on input line 16.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
- [11]
-File: figuras/ib.png Graphic file (type png)
-<use figuras/ib.png>
-Package pdftex.def Info: figuras/ib.png  used on input line 35.
-(pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
- [12]
-File: figuras/ib.png Graphic file (type png)
-<use figuras/ib.png>
-Package pdftex.def Info: figuras/ib.png  used on input line 49.
-(pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
- [13]
-File: figuras/ib.png Graphic file (type png)
-<use figuras/ib.png>
-Package pdftex.def Info: figuras/ib.png  used on input line 58.
-(pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
- [14])
+ [9]
+Overfull \hbox (35.51927pt too wide) in paragraph at lines 21--23
+[]\T2A/lmr/bx/n/12 Aunque actualmente la investigaci^^Aon farmac^^Aeutica ha integrado estrategias computacionales
+ []
+
+
+Overfull \hbox (19.00835pt too wide) in paragraph at lines 21--23
+\T2A/lmr/bx/n/12 metodolog^^A^^Yas incluyen: Cribado virtual,Modelado molecular An^^Aalisis de relaci^^Aon estructura-
+ []
+
+
+Overfull \hbox (13.16974pt too wide) in paragraph at lines 21--23
+\T2A/lmr/bx/n/12 de datos por significancia estad^^A^^Ystica y relevancia cl^^A^^Ynica.Estudios recientes han comenzado
+ []
+
+
+Overfull \hbox (52.7491pt too wide) in paragraph at lines 21--23
+\T2A/lmr/bx/n/12 a explorar sistem^^Aaticamente los metabolitos de Aloe vera utilizando herramientas computacionales
+ []
+
+
+Overfull \hbox (20.02736pt too wide) in paragraph at lines 21--23
+\T2A/lmr/bx/n/12 contempor^^Aaneas.Por otro lado, Kathiraven et al. [[]17[]] exploraron la relaci^^Aon entre inhibidores
+ []
+
+
+Overfull \hbox (39.23914pt too wide) in paragraph at lines 24--26
+[]\T2A/lmr/bx/n/12 A pesar de los avances prometedores, persisten desaf^^A^^Yos significativos como la estandarizaci^^Aon
+ []
+
+
+Overfull \hbox (12.35213pt too wide) in paragraph at lines 24--26
+\T2A/lmr/bx/n/12 sugiere que los metabolitos secundarios de Aloe vera representan una l^^A^^Ynea de investigaci^^Aon
+ []
+
+)
 File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
 Package pdftex.def Info: figuras/ib.png  used on input line 91.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
- [15]
-\openout2 = `planteamiento-metodologico.aux'.
-
- (./planteamiento-metodologico.tex
-CapÃ­tulo 5.
+ [10{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}]
 File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
-Package pdftex.def Info: figuras/ib.png  used on input line 18.
+Package pdftex.def Info: figuras/ib.png  used on input line 91.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
-[16
+ [11]
+\openout2 = `marco-teorico.aux'.
+
+ (./marco-teorico.tex
+CapÃ­tulo 4.
+
+Overfull \hbox (9.40285pt too wide) in paragraph at lines 4--6
+\T2A/lmr/bx/n/12 Actualmente la Diabetes Mellitus Tipo 2 (DM2) es una de las mas grandes preocupaciones
+ []
+
+
+Overfull \hbox (22.6534pt too wide) in paragraph at lines 11--11
+[]\T2A/lmr/bx/n/17.28 Fundamentos Moleculares y Fisiopatol^^Aogicos de la Dipeptidil-
+ []
+
+
+Overfull \hbox (18.77411pt too wide) in paragraph at lines 12--13
+\T2A/lmr/bx/n/12 A nivel molecular, la Diabetes Mellitus Tipo 2 se configura como un fen^^Aomeno multifactorial
+ []
+
+File: figuras/ib.png Graphic file (type png)
+<use figuras/ib.png>
+Package pdftex.def Info: figuras/ib.png  used on input line 13.
+(pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
+[12
 
 
 
 
 ]
+Overfull \hbox (22.86456pt too wide) in paragraph at lines 14--16
+\T2A/lmr/bx/n/12 solo en el control gluc^^Aemico, sino tambi^^Aen en las potenciales manifestaciones cardiovasculares
+ []
+
+
+Overfull \hbox (19.63pt too wide) in paragraph at lines 17--18
+[]\T2A/lmr/bx/n/12 Esta cat^^Aalisis o digestion enzim^^Aatica genera la activaci^^Aon de las prote^^A^^Ynas transportadoras
+ []
+
+
+Overfull \hbox (10.20389pt too wide) in paragraph at lines 17--18
+\T2A/lmr/bx/n/12 capacidad del organismo para mantener una homeostasis gluc^^Aemica equilibrada, alterando
+ []
+
+
+Overfull \hbox (25.15524pt too wide) in paragraph at lines 20--22
+\T2A/lmr/bx/n/12 transformaciones significativas en las ^^Aultimas d^^Aecadas. Se han documentado exhaustivamente
+ []
+
+File: figuras/ib.png Graphic file (type png)
+<use figuras/ib.png>
+Package pdftex.def Info: figuras/ib.png  used on input line 22.
+(pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
+[13]
+Overfull \hbox (17.87643pt too wide) in paragraph at lines 28--29
+\T2A/lmr/bx/n/12 bioactivos con potencial terap^^Aeutico. Las m^^Aultiples perspectivas emergentes en la bios^^A^^Yntesis
+ []
+
+
+Overfull \hbox (26.65228pt too wide) in paragraph at lines 30--32
+\T2A/lmr/bx/n/12 propiedades antivirales, inmunomodulatorias, antiinflamatorias, antidiab^^Aeticas y metabolitos
+ []
+
+
+Overfull \hbox (10.36757pt too wide) in paragraph at lines 33--33
+[]\T2A/lmr/bx/n/17.28 Tecnolog^^A^^Yas computacionales para simulaciones moleculares 
+ []
+
+
+Overfull \hbox (4.7859pt too wide) in paragraph at lines 34--35
+\T2A/lmr/bx/n/12 interacciones entre prote^^A^^Ynas y ligandos o simular entornos de interacci^^Aon entre prote^^A^^Ynas,
+ []
+
+File: figuras/ib.png Graphic file (type png)
+<use figuras/ib.png>
+Package pdftex.def Info: figuras/ib.png  used on input line 35.
+(pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
+[14]
+Overfull \hbox (33.49692pt too wide) in paragraph at lines 36--39
+\T2A/lmr/bx/n/12 Algunos investigadores presentaron enfoques innovadores que integran aprendizaje autom^^Aatico
+ []
+
+
+Overfull \hbox (8.96257pt too wide) in paragraph at lines 36--39
+\T2A/lmr/bx/n/12 y simulaciones de din^^Aamica molecular para el descubrimiento de compuestos con potencial
+ []
+
+
+Overfull \hbox (10.7469pt too wide) in paragraph at lines 42--45
+\T2A/lmr/bx/n/12 Esto podr^^A^^Ya complementarse con estudios realizados por Maya y Yadav que han expandido
+ []
+
+
+Overfull \hbox (41.85568pt too wide) in paragraph at lines 42--45
+\T2A/lmr/bx/n/12 potencial actividad inhibitoria, sino tambi^^Aen par^^Aametros fundamentales como biodisponibilidad,
+ []
+
+
+Overfull \hbox (13.59624pt too wide) in paragraph at lines 47--49
+\T2A/lmr/bx/n/12 o las pruebas de screenings para encontrar metabolitos que presentan capacidad inhibitoria
+ []
+
+File: figuras/ib.png Graphic file (type png)
+<use figuras/ib.png>
+Package pdftex.def Info: figuras/ib.png  used on input line 49.
+(pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
+[15]
+Overfull \hbox (18.79279pt too wide) in paragraph at lines 53--56
+\T2A/lmr/bx/n/12 terap^^Aeuticas que combinen eficacia, seguridad, accesibilidad y origen natural. La integraci^^Aon
+ []
+
+
+Overfull \hbox (4.32486pt too wide) in paragraph at lines 53--56
+\T2A/lmr/bx/n/12 de metabolitos de Aloe vera con t^^Aecnicas avanzadas de biolog^^A^^Ya computacional representa
+ []
+
+
+Overfull \hbox (15.74971pt too wide) in paragraph at lines 53--56
+\T2A/lmr/bx/n/12 una aproximaci^^Aon innovadora y multidisciplinaria para abordar los desaf^^A^^Yos del tratamiento
+ []
+
+File: figuras/ib.png Graphic file (type png)
+<use figuras/ib.png>
+Package pdftex.def Info: figuras/ib.png  used on input line 58.
+(pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
+[16])
+File: figuras/ib.png Graphic file (type png)
+<use figuras/ib.png>
+Package pdftex.def Info: figuras/ib.png  used on input line 92.
+(pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
+ [17]
+\openout2 = `planteamiento-metodologico.aux'.
+
+ (./planteamiento-metodologico.tex
+CapÃ­tulo 5.
+
+Overfull \hbox (3.31532pt too wide) in paragraph at lines 3--4
+\T2A/lmr/bx/n/12 Para la metodolog^^A^^Ya se opt^^Ao por el campo computacional usando softwares especializados
+ []
+
+
+Overfull \hbox (17.83835pt too wide) in paragraph at lines 9--10
+\T2A/lmr/bx/n/12 est^^Aa preparada y optimizada para generar los resultados esperados dentro de la preparaci^^Aon,
+ []
+
+File: figuras/ib.png Graphic file (type png)
+<use figuras/ib.png>
+Package pdftex.def Info: figuras/ib.png  used on input line 18.
+(pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
+[18
+
+
+
+
+]
+Overfull \hbox (21.09303pt too wide) in paragraph at lines 44--45
+\T2A/lmr/bx/n/12 inter^^Aes como pueden ser ligandos encontrados en el Aloe Vera con aplicaciones antidiab^^Aeticas
+ []
+
 File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
 Package pdftex.def Info: figuras/ib.png  used on input line 45.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
- [17]
+[19]
+Overfull \hbox (2.30595pt too wide) in paragraph at lines 49--50
+\T2A/lmr/bx/n/12 en las energ^^A^^Yas de interacci^^Aon ya que de esta evaluaci^^Aon se generar^^Aa un an^^Aalisis estad^^A^^Ystico
+ []
+
+
+Overfull \hbox (8.50578pt too wide) in paragraph at lines 49--50
+\T2A/lmr/bx/n/12 para evidenciar los mejores ligandos con mejor potencial inhibitorio decidiendo finalmente
+ []
+
 File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
 Package pdftex.def Info: figuras/ib.png  used on input line 50.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
- [18]
-<figuras/Flujograma.png, id=319, 530.73282pt x 1176.64594pt>
+[20]
+<figuras/Flujograma.png, id=360, 530.73282pt x 1176.64594pt>
 File: figuras/Flujograma.png Graphic file (type png)
 <use figuras/Flujograma.png>
 Package pdftex.def Info: figuras/Flujograma.png  used on input line 55.
@@ -1496,15 +1998,25 @@ Package pdftex.def Info: figuras/Flujograma.png  used on input line 55.
 )
 File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
-Package pdftex.def Info: figuras/ib.png  used on input line 92.
+Package pdftex.def Info: figuras/ib.png  used on input line 93.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
- [19 <./figuras/Flujograma.png>]
+ [21 <./figuras/Flujograma.png>]
 \openout2 = `cronograma.aux'.
 
  (./cronograma.tex
 CapÃ­tulo 6.
 
-Overfull \hbox (7.87624pt too wide) in paragraph at lines 7--22
+Underfull \hbox (badness 1152) in paragraph at lines 18--18
+[]|\T2A/lmr/bx/n/12 An^^Aalisis de energ^^A^^Ya y resoluci^^Aon de
+ []
+
+
+Underfull \hbox (badness 3118) in paragraph at lines 19--19
+[]|\T2A/lmr/bx/n/12 Reporte de resultados e inicio de
+ []
+
+
+Overfull \hbox (7.85495pt too wide) in paragraph at lines 7--22
  [] 
  []
 
@@ -1512,7 +2024,7 @@ File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
 Package pdftex.def Info: figuras/ib.png  used on input line 26.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
-[20
+[22
 
 
 
@@ -1520,26 +2032,70 @@ Package pdftex.def Info: figuras/ib.png  used on input line 26.
 ])
 File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
-Package pdftex.def Info: figuras/ib.png  used on input line 93.
+Package pdftex.def Info: figuras/ib.png  used on input line 94.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
- [21]
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 101.
- (/usr/share/texmf/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
+ [23]
+
+LaTeX Font Warning: Font shape `T2A/lmr/m/it' undefined
+(Font)              using `T2A/lmr/m/n' instead on input line 102.
+
+LaTeX Font Info:    Trying to load font information for T2A+lmtt on input line 102.
+LaTeX Font Info:    No file T2Almtt.fd. on input line 102.
+
+LaTeX Font Warning: Font shape `T2A/lmtt/m/n' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 102.
+
+
+Overfull \hbox (25.99307pt too wide) in paragraph at lines 103--103
+\T2A/lmtt/m/n/12 synthesis, and in vitro evaluation¿. English. Â: BIOCHEMICAL AND BIOPHYSICAL
+ []
+
 File: figuras/ib.png Graphic file (type png)
 <use figuras/ib.png>
-Package pdftex.def Info: figuras/ib.png  used on input line 104.
+Package pdftex.def Info: figuras/ib.png  used on input line 102.
 (pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
- [22
+[24
 
 
 
-] (./Tesis.aux (./introduccion.aux) (./planteamiento.aux) (./antecedentes.aux) (./marco-teorico.aux) (./planteamiento-metodologico.aux) (./cronograma.aux))
+]
+Overfull \hbox (6.82008pt too wide) in paragraph at lines 103--103
+[]\T2A/lmtt/m/n/12 Sandra De La Torre è äð. ¾  Computational approaches for lead compound discovery
+ []
+
+
+Overfull \hbox (9.16566pt too wide) in paragraph at lines 103--103
+\T2A/lmtt/m/n/12 in dipeptidyl peptidase-4 inhibition using machine learning and molecular dynamics
+ []
+
+
+Overfull \hbox (29.09401pt too wide) in paragraph at lines 103--103
+\T2A/lmtt/m/n/12 and meta-analysis¿. English. Â: JOURNAL OF PHARMACY & PHARMACOGNOSY
+ []
+
+
+Overfull \hbox (4.26231pt too wide) in paragraph at lines 103--103
+\T2A/lmtt/m/n/12 Search for New DPP4 Inhibitors. Computational Studies of Potential Candidates¿.
+ []
+
+File: figuras/ib.png Graphic file (type png)
+<use figuras/ib.png>
+Package pdftex.def Info: figuras/ib.png  used on input line 102.
+(pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
+[25]
+File: figuras/ib.png Graphic file (type png)
+<use figuras/ib.png>
+Package pdftex.def Info: figuras/ib.png  used on input line 105.
+(pdftex.def)             Requested size: 448.12541pt x 440.93265pt.
+ [26] (./Tesis.aux (./introduccion.aux) (./planteamiento.aux) (./antecedentes.aux) (./marco-teorico.aux) (./planteamiento-metodologico.aux) (./cronograma.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 Package rerunfilecheck Info: File `Tesis.out' has not changed.
 (rerunfilecheck)             Checksum: 688DAD4E73E27F063D6BAF5C0EFE752E;7152.
 Package logreq Info: Writing requests to 'Tesis.run.xml'.
@@ -1547,18 +2103,18 @@ Package logreq Info: Writing requests to 'Tesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 39513 strings out of 474222
- 779547 string characters out of 5748732
- 1947975 words of memory out of 5000000
- 60878 multiletter control sequences out of 15000+600000
- 606477 words of font info for 70 fonts, out of 8000000 for 9000
+ 40264 strings out of 474222
+ 789402 string characters out of 5748732
+ 1948975 words of memory out of 5000000
+ 61594 multiletter control sequences out of 15000+600000
+ 579112 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,13n,97p,1979b,2245s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmcsc10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fonts/type1/public/lm/lmtt12.pfb>
-Output written on Tesis.pdf (23 pages, 2823336 bytes).
+ 84i,13n,97p,1979b,2180s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm2488.pfb>
+Output written on Tesis.pdf (27 pages, 2792557 bytes).
 PDF statistics:
- 404 PDF objects out of 1000 (max. 8388607)
- 337 compressed objects within 4 object streams
- 68 named destinations out of 1000 (max. 500000)
+ 470 PDF objects out of 1000 (max. 8388607)
+ 400 compressed objects within 4 object streams
+ 85 named destinations out of 1000 (max. 500000)
  420 words of extra memory for PDF output out of 10000 (max. 10000000)
 

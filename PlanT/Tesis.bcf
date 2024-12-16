@@ -168,7 +168,7 @@
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortlocale</bcf:key>
-      <bcf:value>english</bcf:value>
+      <bcf:value>russian</bcf:value>
     </bcf:option>
     <bcf:option type="singlevalued">
       <bcf:key>sortingtemplatename</bcf:key>
@@ -2361,11 +2361,29 @@
     <bcf:datasource type="file" datatype="bibtex">Tesis.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1" intorder="1">Publications2024</bcf:citekey>
-    <bcf:citekey order="2" intorder="1">GuevaraTirado2024</bcf:citekey>
-    <bcf:citekey order="3" intorder="1">Budiastutik2022</bcf:citekey>
-    <bcf:citekey order="4" intorder="1">Budiastutik2022</bcf:citekey>
-    <bcf:citekey order="4" intorder="2">JavaidandZafar</bcf:citekey>
+    <bcf:citekey order="1" intorder="1">GuevaraTirado2024</bcf:citekey>
+    <bcf:citekey order="2" intorder="1">Rachin2024</bcf:citekey>
+    <bcf:citekey order="3" intorder="1">Publications2024</bcf:citekey>
+    <bcf:citekey order="4" intorder="1">Masyita2024</bcf:citekey>
+    <bcf:citekey order="5" intorder="1">Singhal2024</bcf:citekey>
+    <bcf:citekey order="5" intorder="2">Shao2024</bcf:citekey>
+    <bcf:citekey order="6" intorder="1">Maya2024</bcf:citekey>
+    <bcf:citekey order="6" intorder="2">DeLaTorre2024</bcf:citekey>
+    <bcf:citekey order="7" intorder="1">GuevaraTirado2024</bcf:citekey>
+    <bcf:citekey order="8" intorder="1">Ushasree2024</bcf:citekey>
+    <bcf:citekey order="9" intorder="1">Budiastutik2022</bcf:citekey>
+    <bcf:citekey order="10" intorder="1">Ushasree2024</bcf:citekey>
+    <bcf:citekey order="10" intorder="2">Budiastutik2022</bcf:citekey>
+    <bcf:citekey order="11" intorder="1">Prasannaraja2020</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">Javaid2022</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">DeLaTorre2024</bcf:citekey>
+    <bcf:citekey order="13" intorder="2">Lu2023</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">Zollapi2023</bcf:citekey>
+    <bcf:citekey order="14" intorder="2">Suleiman2024</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">Kazeem2021</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">Kathiraven2024</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">Singhal2024</bcf:citekey>
+    <bcf:citekey order="17" intorder="2">Shao2024</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
